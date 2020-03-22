@@ -1,5 +1,5 @@
 # Awesome Climbing
-Collection of Awesome Climbing Videos
+Collection of Awesome Climbing Videos (>10 min)
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
