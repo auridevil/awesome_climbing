@@ -87,7 +87,7 @@ Please use the format:
 
 We prefer to add free movies.
 ### Contributors
-* Aureliano elmozzo
+* [Aureliano elmozzo](https://www.instagram.com/elmozzo_buendia/) 
 * Dyno Ciomparelli 
-* Lollo Jack-One il cappellano
-* CCO Filippi
+* [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone/)
+* [CCO Filippi](https://www.instagram.com/fra.ci.filippi/)
