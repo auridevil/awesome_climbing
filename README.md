@@ -1,5 +1,5 @@
 # Awesome Climbing 🧗‍
-Collection of Awesome Climbing Videos (>10 min)
+Collection of Awesome Climbing Videos (>10 min) - continous updates
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -23,10 +23,10 @@ Collection of Awesome Climbing Videos (>10 min)
 * [Qualido - King of the Bongo](https://www.youtube.com/watch?v=MQDS9AquESI) (free)
 * [WIDE BOYZ: Spradventure](https://www.youtube.com/watch?v=gLQtytqJ_KM) (free)
 * [Petzl RocTrip China 2011 - The official movie](https://www.youtube.com/watch?v=EcU255XBlcI) (free)
-
-
-## Various
-* [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
+* [Northern Lights Challenge 2015](https://vimeo.com/153628487) (free)
+* [Outside](https://vimeo.com/9404980) (free)
+* [Solutions 2.0](https://vimeo.com/77158427) (free)
+* [Africa Fusion](https://vimeo.com/120831029) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -35,6 +35,10 @@ Collection of Awesome Climbing Videos (>10 min)
 * [Cerro Kishtwar](https://www.primevideo.com/detail/0RV7UPU2U2EQU0YD6X2C3OMA8R) (amazon prime account)
 * [Yugen](https://www.primevideo.com/detail/0SXK9DXKWMXAT830FUEAEDXTT1) (amazon prime account)
 * [The Road from Karakol](https://www.youtube.com/watch?v=DhFx17s4a2E) (free)
+* [China Jam](https://vimeo.com/ondemand/chinajam/112304856) (€)
+
+## Various
+* [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
 
 ## Pitch
 * [Arnaud Petit climbs Black Bean Ceüse](https://www.youtube.com/watch?v=-TeTejh1ebs) (free)
@@ -50,7 +54,14 @@ Collection of Awesome Climbing Videos (>10 min)
 * [Slovak Direct, Denali - Houseman/Bullock](https://www.youtube.com/watch?v=QUMHPnV8qz0) (free)
 
 ## Homevideos
+* [This is Africa](https://vimeo.com/180634123) (free)
 * [King Line](https://www.youtube.com/watch?v=S247ARFXFqc) (free)
+* [Hampi Bouldering](https://vimeo.com/208392951) (free)
+* [Fresh Meat](https://vimeo.com/77431619) (free)
+* [Rocklands 2018](https://vimeo.com/318335887) (free)
+* [Tres Rocas](https://vimeo.com/35329759) (free)
+* [Playground](https://vimeo.com/12847263) (free)
+* [Escaping Norfolk](https://vimeo.com/101970202) (free)
 
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
@@ -61,6 +72,8 @@ If you want to contribute you can
 * Pull Request to this repository (github account needed)
 * Create Issue on this repository (github account needed)
 * Mail the link to aureliano.bergese[at]gmail.com
+Please use the format: title - link - free/€/account.
+We prefer to add free movies.
 ### Contributors
 * Aureliano elmozzo
 * Dyno Ciomparelli 
