@@ -27,6 +27,12 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [Outside](https://vimeo.com/9404980) (free)
 * [Solutions 2.0](https://vimeo.com/77158427) (free)
 * [Africa Fusion](https://vimeo.com/120831029) (€)
+* [The Story of Two Worlds low start V16](https://vimeo.com/43727285) (free)
+* [3 Days With Ethan Pringle](https://vimeo.com/45360164) (free)
+* [Tomorrow I Will Be Gone](https://vimeo.com/31326082) (free)
+* [Hardest of the Alps](https://vimeo.com/22990491) (free)
+* [La Obsesión - A film about Dani Andrada](https://vimeo.com/36642899) (free)
+* [No Numbers](https://vimeo.com/20574103) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
