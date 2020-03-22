@@ -22,6 +22,8 @@ Collection of Awesome Climbing Videos (>10 min)
 * [Rampage](https://vimeo.com/ondemand/rampage) (€)
 * [Qualido - King of the Bongo](https://www.youtube.com/watch?v=MQDS9AquESI) (free)
 * [WIDE BOYZ: Spradventure](https://www.youtube.com/watch?v=gLQtytqJ_KM) (free)
+* [Petzl RocTrip China 2011 - The official movie](https://www.youtube.com/watch?v=EcU255XBlcI) (free)
+
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
@@ -31,6 +33,8 @@ Collection of Awesome Climbing Videos (>10 min)
 * [CLIMBING THE NOSE](https://www.youtube.com/watch?v=VapbvTq8GOE) (free)
 * [Europe's Best Crags](https://www.epictv.com/media/series-home/europes-best-crags/255481?episode=255296) (free)
 * [Breath](https://www.primevideo.com/detail/0HSWIDK9RV02SHTVGV00MHQB2H) (amazon prime account)
+* [9b move by move](https://www.youtube.com/watch?v=BUBcNT8NYCA) free
+
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
 * [Messner](https://www.primevideo.com/detail/0R5NTM9ZFTXY45XW8BE0MAI2T0) (amazon prime account)
@@ -38,6 +42,7 @@ Collection of Awesome Climbing Videos (>10 min)
 * [Cerro Kishtwar](https://www.primevideo.com/detail/0RV7UPU2U2EQU0YD6X2C3OMA8R) (amazon prime account)
 * [Yugen](https://www.primevideo.com/detail/0SXK9DXKWMXAT830FUEAEDXTT1) (amazon prime account)
 * [The Road from Karakol](https://www.youtube.com/watch?v=DhFx17s4a2E) (free)
+* [Jakob Schubert - Perfecto Mundo 9b+](https://www.youtube.com/watch?v=nmYXe2u0juM) (free)
 
 ## Ice
 ## Homevideos
