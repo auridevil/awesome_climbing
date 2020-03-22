@@ -34,6 +34,7 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [La Obsesión - A film about Dani Andrada](https://vimeo.com/36642899) (free)
 * [No Numbers](https://vimeo.com/20574103) (free)
 * [Vertical Miles - Corona e Bole](https://www.youtube.com/watch?v=_2Vfho2y1J8) (free)
+* [Uli Biaho - Matteo DB](https://www.youtube.com/watch?v=UvFuu4KuSDg) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -88,3 +89,5 @@ We prefer to add free movies.
 ### Contributors
 * Aureliano elmozzo
 * Dyno Ciomparelli 
+* Lollo Jack-One il cappellano
+* CCO Filippi
