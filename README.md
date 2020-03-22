@@ -21,6 +21,7 @@ Collection of Awesome Climbing Videos (>10 min)
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
 * [Rampage](https://vimeo.com/ondemand/rampage) (€)
 * [Qualido - King of the Bongo](https://www.youtube.com/watch?v=MQDS9AquESI) (free)
+* [WIDE BOYZ: Spradventure](https://www.youtube.com/watch?v=gLQtytqJ_KM) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
