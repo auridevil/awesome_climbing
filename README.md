@@ -13,6 +13,12 @@ Collection of Awesome Climbing Videos (>10 min)
 * [Zembrocal - Back to Reunion Island](https://www.primevideo.com/detail/0TN5D043G1SEGQ0YFANL1QJLR0) (amazon prime account)
 * [Western Gold](https://www.primevideo.com/detail/0RZHKOE9QJLHV9T9FBMAS2Y1UW) (amazon prime account)
 * [Deep Water](https://www.primevideo.com/detail/0U8HO7U8SNI66I5SLV3W9Z9YP4) (amazon prime account)
+* [Free Solo](https://www.hulu.com/movie/free-solo-5bc87ba3-cda0-4f46-b81c-4c3ea170e9d1) (hulu account)
+* [Jeff Lowe Metanoia)(https://filmfestivalflix.com/festival/vertical-life-film-festival/film/jeff-lowes-metanoia) (paid)
+* [The Asgard Project)(https://filmfestivalflix.com/festival/vertical-life-film-festival/film/the-asgard-project/) (paid)
+* [Mirror Wall](https://www.youtube.com/watch?v=cBSnwpcYRqA) (free)
+* [Consumed](https://www.youtube.com/watch?v=IYIvX5vNA6s) (free)
+* [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
@@ -28,6 +34,7 @@ Collection of Awesome Climbing Videos (>10 min)
 * [Loslassen](https://www.primevideo.com/detail/0LCRBDZIFQ1ARGZXJAV7U82LNP) (amazon prime account)
 * [Cerro Kishtwar](https://www.primevideo.com/detail/0RV7UPU2U2EQU0YD6X2C3OMA8R) (amazon prime account)
 * [Yugen](https://www.primevideo.com/detail/0SXK9DXKWMXAT830FUEAEDXTT1) (amazon prime account)
+* [The Road from Karakol](https://www.youtube.com/watch?v=DhFx17s4a2E) (free)
 
 ## Ice
 ## Homevideos
