@@ -33,6 +33,7 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [Hardest of the Alps](https://vimeo.com/22990491) (free)
 * [La Obsesión - A film about Dani Andrada](https://vimeo.com/36642899) (free)
 * [No Numbers](https://vimeo.com/20574103) (free)
+* [Vertical Miles - Corona e Bole](https://www.youtube.com/watch?v=_2Vfho2y1J8) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
