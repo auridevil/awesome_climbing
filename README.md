@@ -78,7 +78,10 @@ If you want to contribute you can
 * Pull Request to this repository (github account needed)
 * Create Issue on this repository (github account needed)
 * Mail the link to aureliano.bergese[at]gmail.com
+
+
 Please use the format: title - link - free/€/account.
+
 We prefer to add free movies.
 ### Contributors
 * Aureliano elmozzo
