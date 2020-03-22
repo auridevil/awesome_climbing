@@ -1,4 +1,4 @@
-# Awesome Climbing
+# Awesome Climbing 🧗‍
 Collection of Awesome Climbing Videos (>10 min)
 
 ## Movies
