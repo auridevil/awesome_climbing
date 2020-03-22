@@ -26,7 +26,7 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [Northern Lights Challenge 2015](https://vimeo.com/153628487) (free)
 * [Outside](https://vimeo.com/9404980) (free)
 * [Solutions 2.0](https://vimeo.com/77158427) (free)
-* [Africa Fusion](https://vimeo.com/120831029) (free)
+* [Africa Fusion](https://vimeo.com/120831029) (€)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
