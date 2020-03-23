@@ -90,6 +90,7 @@ Continous updates - Last Update 23.3.20
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
 * [Loved By All: The Story of Apa Sherpa](https://vimeo.com/270499256) (free) 
+* [Kai Lin: Out On A Limb](https://www.youtube.com/watch?v=UsX_dyZvJ50) (free)
 
 ## Pitch
 * [Arnaud Petit climbs Black Bean Ceüse](https://www.youtube.com/watch?v=-TeTejh1ebs) (free)
