@@ -69,6 +69,7 @@ Continous updates - Last Update 23.3.20
 * [La grigna dei ragni](https://www.youtube.com/watch?v=dpxrGtLHDOU) (free)
 * [Edu Marin: Panaroma ep1](https://www.youtube.com/watch?v=PkLKsmZk9ck) (free)
 * [Edu Marin: Panaroma ep2](https://www.youtube.com/watch?v=_qxOxiFOSXM) (free)
+* [Great Wide Open Series](https://www.facebook.com/watch/jaredleto/261235377595049) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -149,3 +150,4 @@ We prefer to add free movies.
 * [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia/)
 * [Matt Twight Cogno](https://www.instagram.com/matteo.cogno/)
 * [Paolo DeNuccio](https://www.facebook.com/paolo.denuccio)
+* [Mauro Locatelli]
