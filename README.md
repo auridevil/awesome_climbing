@@ -8,7 +8,7 @@ Continous updates - Last Update 23.3.20
 * [The Egger project](https://www.youtube.com/watch?v=4MwWBfDB62M) (free)
 * [The Dawn Wall](https://www.netflix.com/watch/81004270?trackId=13752289&) (netflix account)
 * [Reel Rock 1-5](https://www.redbull.com/int-en/shows/reel-rock-1) (free)
-* [Reel Rock 6-14, Valley Upsrising and many more](https://reelrocktour.com/collections/films) (expensive, but totally worth)
+* [Reel Rock 6-14, Valley Upsrising and many more](https://reelrocktour.com/collections/films) (€xpensive, but totally worth)
 * [Cerro Torre](https://www.redbull.com/int-en/films/cerro-torre) (free)
 * [Roraima](https://www.redbull.com/int-en/films/roraima) (free)
 * [Lunag Ri 2nd Attempt](https://www.redbull.com/int-en/films/lunag-ri-2nd-attempt) (free)
