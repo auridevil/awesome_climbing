@@ -85,6 +85,7 @@ Continous updates - Last Update 23.3.20
 * [Eco del silenzio](https://www.youtube.com/watch?v=LUA6UGZrtdY) (free)
 * [Grimpeurs (italian version)](https://www.youtube.com/watch?v=wS1uiMMUSq4) (free)
 * [Into thin air Jon Krakauer (italian version)](https://www.youtube.com/watch?v=-XpUuIgyUHE) (free)
+* [Loved By All: The Story of Apa Sherpa](https://vimeo.com/270499256) (free) 
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
