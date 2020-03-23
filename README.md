@@ -70,6 +70,8 @@ Continous updates - Last Update 23.3.20
 * [Edu Marin: Panaroma ep1](https://www.youtube.com/watch?v=PkLKsmZk9ck) (free)
 * [Edu Marin: Panaroma ep2](https://www.youtube.com/watch?v=_qxOxiFOSXM) (free)
 * [Great Wide Open Series](https://www.facebook.com/watch/jaredleto/261235377595049) (free)
+* [The Lorax Project](https://vimeo.com/310331133) (free)
+* [Blood on the Crack](https://www.redbull.com/ca-en/films/blood-on-the-crack) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
