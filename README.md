@@ -1,5 +1,7 @@
 # Awesome Climbing 🧗‍
-Collection of Awesome Climbing Videos (>10 min) - continous updates
+Collection of Awesome Climbing Videos (>10 min) 
+
+Continous updates - Last Update 23.3.20
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
