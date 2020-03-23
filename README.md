@@ -3,6 +3,7 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
+* [The Egger project](https://www.youtube.com/watch?v=4MwWBfDB62M) (free)
 * [The Dawn Wall](https://www.netflix.com/watch/81004270?trackId=13752289&) (netflix account)
 * [Reel Rock 1-5](https://www.redbull.com/int-en/shows/reel-rock-1) (free)
 * [Reel Rock 6-14, Valley Upsrising and many more](https://reelrocktour.com/collections/films) (expensive, but totally worth)
@@ -63,14 +64,23 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [The Good Land - Bouldering at Devil's Lake, Wisconsin](https://www.youtube.com/watch?v=bA1j01hT-UQ) (free)
 * [Petzl RocTrip Argentina 2012](https://www.youtube.com/watch?v=QllWNEGBKic) (free)
 * [Petzl RocTrip Turkey 2014](https://www.youtube.com/watch?v=sWrNoka8jJw) (free)
+* [La grigna dei ragni](https://www.youtube.com/watch?v=dpxrGtLHDOU) (free)
+* [Edu Marin: Panaroma ep1](https://www.youtube.com/watch?v=PkLKsmZk9ck) (free)
+* [Edu Marin: Panaroma ep2](https://www.youtube.com/watch?v=_qxOxiFOSXM) (free)
+
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
 * [Messner](https://www.primevideo.com/detail/0R5NTM9ZFTXY45XW8BE0MAI2T0) (amazon prime account)
+* [Messner](https://www.youtube.com/watch?v=QAuk38mUu1Y&t=3598s) (free)
 * [Loslassen](https://www.primevideo.com/detail/0LCRBDZIFQ1ARGZXJAV7U82LNP) (amazon prime account)
 * [Cerro Kishtwar](https://www.primevideo.com/detail/0RV7UPU2U2EQU0YD6X2C3OMA8R) (amazon prime account)
 * [Yugen](https://www.primevideo.com/detail/0SXK9DXKWMXAT830FUEAEDXTT1) (amazon prime account)
 * [The Road from Karakol](https://www.youtube.com/watch?v=DhFx17s4a2E) (free)
 * [China Jam](https://vimeo.com/ondemand/chinajam/112304856) (€)
+* [Ueli Steck: 82 summits in 62 days pt1](https://www.youtube.com/watch?v=qBeejZqMJYE) (free)
+* [Ueli Steck: 82 summits in 62 days pt2](https://www.youtube.com/watch?v=x7IE50V2u80) (free)
+* [Eco del silenzio](https://www.youtube.com/watch?v=LUA6UGZrtdY) (free)
+* [Grimpeurs (italian version)](https://www.youtube.com/watch?v=wS1uiMMUSq4) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
