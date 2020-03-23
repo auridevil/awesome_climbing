@@ -84,6 +84,7 @@ Continous updates - Last Update 23.3.20
 * [Ueli Steck: 82 summits in 62 days pt2](https://www.youtube.com/watch?v=x7IE50V2u80) (free)
 * [Eco del silenzio](https://www.youtube.com/watch?v=LUA6UGZrtdY) (free)
 * [Grimpeurs (italian version)](https://www.youtube.com/watch?v=wS1uiMMUSq4) (free)
+* [Into thin air Jon Krakauer (italian version)](https://www.youtube.com/watch?v=-XpUuIgyUHE) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
@@ -102,6 +103,8 @@ Continous updates - Last Update 23.3.20
 * [Adam Ondra Chilam Balam 9b](https://www.youtube.com/watch?v=ASvUhPsuLJE) (free)
 * [Stefano Ghisolfi Jungle Boogie 9a+](https://www.youtube.com/watch?v=JnWsIvtBPtw) (free)
 * [Gérôme Pouvreau Ganesh 5.14a](https://www.youtube.com/watch?v=Y3UDkcH5KzI) (free)
+* [Joe Kinder Bone Tomahawk 9a+](https://www.youtube.com/watch?v=pQBR96lPTvs) (free)
+* [Le vent nous portera, 9a+, Socaire, Chile](https://vimeo.com/236289545) (free)
 
 ## Ice
 * [Beyond good and evil](https://www.youtube.com/watch?v=ISagf2eCzKg&t=180s) (free)
