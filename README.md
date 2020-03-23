@@ -153,4 +153,4 @@ We prefer to add free movies.
 * [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia/)
 * [Matt Twight Cogno](https://www.instagram.com/matteo.cogno/)
 * [Paolo DeNuccio](https://www.facebook.com/paolo.denuccio)
-* [Mauro Locatelli]
+* [Mauro Locatelli](https://twitter.com/crivotz)
