@@ -92,7 +92,7 @@ Continous updates - Last Update 23.3.20
 * [CLIMBING THE NOSE](https://www.youtube.com/watch?v=VapbvTq8GOE) (free)
 * [Europe's Best Crags](https://www.epictv.com/media/series-home/europes-best-crags/255481?episode=255296) (free)
 * [Breath](https://www.primevideo.com/detail/0HSWIDK9RV02SHTVGV00MHQB2H) (amazon prime account)
-* [9b move by move](https://www.youtube.com/watch?v=BUBcNT8NYCA) free
+* [9b move by move](https://www.youtube.com/watch?v=BUBcNT8NYCA) (free)
 * [Jakob Schubert - Perfecto Mundo 9b+](https://www.youtube.com/watch?v=nmYXe2u0juM) (free)
 * [Jimmy Webb: Dreamcatcher](https://www.youtube.com/watch?v=CMCexFuxQeE) (free)
 * [Adam Ondra Silence 9c](https://www.youtube.com/watch?v=ZRTNHDd0gL8) (free)
