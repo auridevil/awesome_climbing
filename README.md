@@ -104,7 +104,7 @@ Continous updates - Last Update 23.3.20
 * [Stefano Ghisolfi Jungle Boogie 9a+](https://www.youtube.com/watch?v=JnWsIvtBPtw) (free)
 * [Gérôme Pouvreau Ganesh 5.14a](https://www.youtube.com/watch?v=Y3UDkcH5KzI) (free)
 * [Joe Kinder Bone Tomahawk 9a+](https://www.youtube.com/watch?v=pQBR96lPTvs) (free)
-* [Le vent nous portera, 9a+, Socaire, Chile](https://vimeo.com/236289545) (free)
+* [Pirmin Bertle Le vent nous portera, 9a+, Socaire, Chile](https://vimeo.com/236289545) (free)
 
 ## Ice
 * [Beyond good and evil](https://www.youtube.com/watch?v=ISagf2eCzKg&t=180s) (free)
