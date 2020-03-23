@@ -45,7 +45,7 @@ Continous updates - Last Update 23.3.20
 * [Orbayu](https://www.youtube.com/watch?v=J7QeAx8mn9A) (free)
 * [The North Face Rock Trip 2016 in Bishop](https://www.youtube.com/watch?v=8-LpZTk3zVM) (free)
 * [The North Face Rock Trip in Kinkasan](https://www.youtube.com/watch?v=yvT7lAAA_aI) (free)
-* [Fontainebleau - Bouldering in the magical forest | 2017](https://www.youtube.com/watch?v=Dtta58DcezQ) (free)
+* [Fontainebleau - Bouldering in the magical forest 2017](https://www.youtube.com/watch?v=Dtta58DcezQ) (free)
 * [Rooftown 1](https://www.youtube.com/watch?v=eLkYtpvAS88) (free)
 * [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
 * [Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
