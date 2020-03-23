@@ -7,7 +7,7 @@ Continous updates - Last Update 23.3.20
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
 * [The Egger project](https://www.youtube.com/watch?v=4MwWBfDB62M) (free)
 * [The Dawn Wall](https://www.netflix.com/watch/81004270?trackId=13752289&) (netflix account)
-* [Reel Rock 1-5](https://www.redbull.com/int-en/shows/reel-rock-1) (free)
+* [Reel Rock (parts)](https://www.redbull.com/int-en/shows/reel-rock-1) (free)
 * [Reel Rock 6-14, Valley Upsrising and many more](https://reelrocktour.com/collections/films) (€xpensive, but totally worth)
 * [Cerro Torre](https://www.redbull.com/int-en/films/cerro-torre) (free)
 * [Roraima](https://www.redbull.com/int-en/films/roraima) (free)
@@ -85,6 +85,7 @@ Continous updates - Last Update 23.3.20
 * [Eco del silenzio](https://www.youtube.com/watch?v=LUA6UGZrtdY) (free)
 * [Grimpeurs (italian version)](https://www.youtube.com/watch?v=wS1uiMMUSq4) (free)
 * [Into thin air Jon Krakauer (italian version)](https://www.youtube.com/watch?v=-XpUuIgyUHE) (free)
+* [Liv Along The Way](https://www.youtube.com/watch?v=ny18Pv_acpc) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
