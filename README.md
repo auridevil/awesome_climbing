@@ -36,6 +36,14 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [No Numbers](https://vimeo.com/20574103) (free)
 * [Vertical Miles - Corona e Bole](https://www.youtube.com/watch?v=_2Vfho2y1J8) (free)
 * [Uli Biaho - Matteo DB](https://www.youtube.com/watch?v=UvFuu4KuSDg) (free)
+* [Basilicata Stray Rock](https://www.youtube.com/watch?v=ZW4xmNX1t34) (free)
+* [Backcountry Bouldering Part Four: Revelations](https://www.youtube.com/watch?v=PHBDfiUpXuc) (free)
+* [The North Face Rock Trip #01 SHIKOKU](https://www.youtube.com/watch?v=WjAmnLFlkbk) (free)
+* [Orbayu](https://www.youtube.com/watch?v=J7QeAx8mn9A) (free)
+* [The North Face Rock Trip 2016 in Bishop](https://www.youtube.com/watch?v=8-LpZTk3zVM) (free)
+* [The North Face Rock Trip in Kinkasan](https://www.youtube.com/watch?v=yvT7lAAA_aI) (free)
+* [Fontainebleau - Bouldering in the magical forest | 2017](https://www.youtube.com/watch?v=Dtta58DcezQ) (free)
+* [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -71,6 +79,7 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [Tres Rocas](https://vimeo.com/35329759) (free)
 * [Playground](https://vimeo.com/12847263) (free)
 * [Escaping Norfolk](https://vimeo.com/101970202) (free)
+* [Black Mountain Bouldering - The Austrian Point of View](https://www.youtube.com/watch?v=wGVio6sGYXw) (free)
 
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
