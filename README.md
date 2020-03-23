@@ -43,8 +43,26 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [The North Face Rock Trip 2016 in Bishop](https://www.youtube.com/watch?v=8-LpZTk3zVM) (free)
 * [The North Face Rock Trip in Kinkasan](https://www.youtube.com/watch?v=yvT7lAAA_aI) (free)
 * [Fontainebleau - Bouldering in the magical forest | 2017](https://www.youtube.com/watch?v=Dtta58DcezQ) (free)
+* [Rooftown 1](https://www.youtube.com/watch?v=eLkYtpvAS88) (free)
 * [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
-
+* [Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
+* [The Mission - Torrido Bouldering](https://www.youtube.com/watch?v=W51zBGrcMRg) (free)
+* [Between the Trees - Bouldering in Fontainbleau](https://www.youtube.com/watch?v=IaxHcntnnIo) (free)
+* [The Schengen Files](https://www.youtube.com/watch?v=xXHPAIwJvhM) (free)
+* [Out of Sight 1](https://www.youtube.com/watch?v=5H3iBbZPByA) (free)
+* [Out of Sight 2](https://www.youtube.com/watch?v=owq_Ojllb_A) (free)
+* [Out of Sight 3](https://www.youtube.com/watch?v=GmftEXJTsfg) (free)
+* [Better than chocolate - Swiss Bouldering](https://www.youtube.com/watch?v=mHZC0B6OFfk) (free) 
+* [Tsūrisuto A Japanese Rockumentary](https://www.youtube.com/watch?v=QkPSls88GAo) (free)
+* [No Siesta Spain Trip](https://www.youtube.com/watch?v=5BZNIqiNIS0) (free)
+* [Abyss - North America's Highest Bouldering](https://www.youtube.com/watch?v=gLnM389Wo9Y) (free)
+* [Chalk Life](https://www.youtube.com/watch?v=qEN27iiG6YI) (free)
+* [Park Life - Yosemite Bouldering](https://www.youtube.com/watch?v=KPXOcOA1LmU) (free)
+* [National Geographic - To Climb The World](https://www.youtube.com/watch?v=NFfTHoJ9khs) (free)
+* [Daniel Woods in Shiobara](https://www.youtube.com/watch?v=4ycP_uEBjJM) (free)
+* [The Good Land - Bouldering at Devil's Lake, Wisconsin](https://www.youtube.com/watch?v=bA1j01hT-UQ) (free)
+* [Petzl RocTrip Argentina 2012](https://www.youtube.com/watch?v=QllWNEGBKic) (free)
+* [Petzl RocTrip Turkey 2014](https://www.youtube.com/watch?v=sWrNoka8jJw) (free)
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
 * [Messner](https://www.primevideo.com/detail/0R5NTM9ZFTXY45XW8BE0MAI2T0) (amazon prime account)
@@ -65,6 +83,12 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [9b move by move](https://www.youtube.com/watch?v=BUBcNT8NYCA) free
 * [Jakob Schubert - Perfecto Mundo 9b+](https://www.youtube.com/watch?v=nmYXe2u0juM) (free)
 * [Jimmy Webb: Dreamcatcher](https://www.youtube.com/watch?v=CMCexFuxQeE) (free)
+* [Adam Ondra Silence 9c](https://www.youtube.com/watch?v=ZRTNHDd0gL8) (free)
+* [Adam Ondra onsight Il Domani 9a](https://www.youtube.com/watch?v=qA8Bjp4SOkA) (free)
+* [Adam Ondra Chaxiraxi 9b](https://www.youtube.com/watch?v=uWZyvzzPXlU) (free)
+* [Adam Ondra Chilam Balam 9b](https://www.youtube.com/watch?v=ASvUhPsuLJE) (free)
+* [Stefano Ghisolfi Jungle Boogie 9a+](https://www.youtube.com/watch?v=JnWsIvtBPtw) (free)
+* [Gérôme Pouvreau Ganesh 5.14a](https://www.youtube.com/watch?v=Y3UDkcH5KzI) (free)
 
 ## Ice
 * [Beyond good and evil](https://www.youtube.com/watch?v=ISagf2eCzKg&t=180s) (free)
@@ -75,14 +99,20 @@ Collection of Awesome Climbing Videos (>10 min) - continous updates
 * [King Line](https://www.youtube.com/watch?v=S247ARFXFqc) (free)
 * [Hampi Bouldering](https://vimeo.com/208392951) (free)
 * [Fresh Meat](https://vimeo.com/77431619) (free)
+* [Rocklands 2014](https://www.youtube.com/watch?v=9F3sAUgRWKo) (free)
+* [Rocklands 2015](https://www.youtube.com/watch?v=q9ZChkJ0sZw) (free)
+* [Rocklands 2017](https://www.youtube.com/watch?v=famIyftIB-w) (free)
 * [Rocklands 2018](https://vimeo.com/318335887) (free)
 * [Tres Rocas](https://vimeo.com/35329759) (free)
 * [Playground](https://vimeo.com/12847263) (free)
 * [Escaping Norfolk](https://vimeo.com/101970202) (free)
 * [Black Mountain Bouldering - The Austrian Point of View](https://www.youtube.com/watch?v=wGVio6sGYXw) (free)
+* [An Untouched Paradise - Monte Lu Bagnu, Sardinia Bouldering (Part 1)](https://www.youtube.com/watch?v=DnievB3ZWgU) (free)
+* [Storms and Sunshine in Albarracin](https://www.youtube.com/watch?v=yhiyyiMllEc) (free)
 
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
+* [LeRouge83 - Climbing Movies](https://www.youtube.com/playlist?list=PLZpGJxNn968xS5luuJekAhUpTaoftfW_v)
 
 ## About
 ### Contribute
@@ -102,3 +132,5 @@ We prefer to add free movies.
 * [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone/)
 * [CCO Filippi](https://www.instagram.com/fra.ci.filippi/)
 * [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia/)
+* [Matt Twight Cogno](https://www.instagram.com/matteo.cogno/)
+* [Paolo DeNuccio](https://www.facebook.com/paolo.denuccio)
