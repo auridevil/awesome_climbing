@@ -127,6 +127,9 @@ Continous updates - Last Update 23.3.20
 * [LeRouge83 - Climbing Movies](https://www.youtube.com/playlist?list=PLZpGJxNn968xS5luuJekAhUpTaoftfW_v)
 
 ## About
+* [Repository Version](https://github.com/auridevil/awesome_climbing/)
+* [Website version](https://auridevil.github.io/awesome_climbing/)
+
 ### Contribute
 If you want to contribute you can
 * Pull Request to this repository (github account needed)
