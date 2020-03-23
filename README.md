@@ -73,6 +73,7 @@ Continous updates - Last Update 23.3.20
 * [The Lorax Project](https://vimeo.com/310331133) (free)
 * [Blood on the Crack](https://www.redbull.com/ca-en/films/blood-on-the-crack) (free)
 * [Lotus Flower](https://www.youtube.com/watch?v=hVkgSZUwn3k) (free)
+* [Shoshala](https://www.youtube.com/watch?v=xZEgeaAY0cA) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
