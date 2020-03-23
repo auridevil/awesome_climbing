@@ -1,5 +1,5 @@
 # Awesome Climbing 🧗‍
-Collection of Awesome Climbing Videos (>10 min) 
+Unsorted Collection of Awesome Climbing Videos (>10 min) 
 
 Continous updates - Last Update 23.3.20
 
