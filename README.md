@@ -92,3 +92,4 @@ We prefer to add free movies.
 * Dyno Ciomparelli 
 * [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone/)
 * [CCO Filippi](https://www.instagram.com/fra.ci.filippi/)
+* [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia/)
