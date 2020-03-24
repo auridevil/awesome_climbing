@@ -173,7 +173,7 @@ We prefer to add free movies.
 * [Aureliano elmozzo](https://www.instagram.com/elmozzo_buendia) (mantainer)
 * [Matt Twight Cogno](https://www.instagram.com/matteo.cogno) (mantainer)
 * [Fifo Gafrex](https://www.instagram.com/gafreax) (mantainer)
-* Dyno Ciomparelli 
+* [Dyno Ciomparelli](https://www.youtube.com/watch?v=17khWnP9d6c)
 * [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone)
 * [CCO Filippi](https://www.instagram.com/fra.ci.filippi)
 * [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia)
