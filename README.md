@@ -36,12 +36,8 @@ Continous updates - Last Update 24.3.20
 * [Uli Biaho - Matteo DB](https://www.youtube.com/watch?v=UvFuu4KuSDg) (free)
 * [Basilicata Stray Rock](https://www.youtube.com/watch?v=ZW4xmNX1t34) (free)
 * [Orbayu](https://www.youtube.com/watch?v=J7QeAx8mn9A) (free)
-* [The North Face Rock Trip 2016 in Bishop](https://www.youtube.com/watch?v=8-LpZTk3zVM) (free)
 * [The North Face Rock Trip in Kinkasan](https://www.youtube.com/watch?v=yvT7lAAA_aI) (free)
-* [Rooftown 1](https://www.youtube.com/watch?v=eLkYtpvAS88) (free)
-* [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
 * [Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
-* [The Schengen Files](https://www.youtube.com/watch?v=xXHPAIwJvhM) (free)
 * [No Siesta Spain Trip](https://www.youtube.com/watch?v=5BZNIqiNIS0) (free)
 * [Chalk Life](https://www.youtube.com/watch?v=qEN27iiG6YI) (free)
 * [Park Life - Yosemite Bouldering](https://www.youtube.com/watch?v=KPXOcOA1LmU) (free)
@@ -78,7 +74,7 @@ Continous updates - Last Update 24.3.20
 * [Into thin air Jon Krakauer (italian version)](https://www.youtube.com/watch?v=-XpUuIgyUHE) (free)
 * [Liv Along The Way](https://www.youtube.com/watch?v=ny18Pv_acpc) (free)
 
-## Bouldering (work in progress)
+## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
 * [Better than chocolate - Swiss Bouldering](https://www.youtube.com/watch?v=mHZC0B6OFfk) (free) 
 * [The Mission - Torrido Bouldering](https://www.youtube.com/watch?v=W51zBGrcMRg) (free)
@@ -102,6 +98,10 @@ Continous updates - Last Update 24.3.20
 * [Out of Sight 1](https://www.youtube.com/watch?v=5H3iBbZPByA) (free)
 * [Out of Sight 2](https://www.youtube.com/watch?v=owq_Ojllb_A) (free)
 * [Out of Sight 3](https://www.youtube.com/watch?v=GmftEXJTsfg) (free)
+* [The Schengen Files](https://www.youtube.com/watch?v=xXHPAIwJvhM) (free)
+* [Rooftown 1](https://www.youtube.com/watch?v=eLkYtpvAS88) (free)
+* [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
+* [The North Face Rock Trip 2016 in Bishop](https://www.youtube.com/watch?v=8-LpZTk3zVM) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
