@@ -74,6 +74,7 @@ Continous updates - Last Update 24.3.20
 * [Blood on the Crack](https://www.redbull.com/ca-en/films/blood-on-the-crack) (free)
 * [Lotus Flower](https://www.youtube.com/watch?v=hVkgSZUwn3k) (free)
 * [Shoshala](https://www.youtube.com/watch?v=xZEgeaAY0cA) (free)
+* [Masters of Stone II](https://www.youtube.com/watch?v=sAEUQyxf2vc) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -165,3 +166,4 @@ We prefer to add free movies.
 * [Paolo DeNuccio](https://www.facebook.com/paolo.denuccio)
 * [Mauro Locatelli](https://twitter.com/crivotz)
 * [TarotNagasaki](https://www.reddit.com/user/TarotNagasaki/)
+* [Maxwellmaxen](https://www.reddit.com/user/maxwellmaxen)
