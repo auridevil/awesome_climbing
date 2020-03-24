@@ -1,7 +1,7 @@
 # Awesome Climbing 🧗‍
 Unsorted Collection of Awesome Climbing Videos (>10 min) 
 
-Continous updates - Last Update 23.3.20
+Continous updates - Last Update 24.3.20
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -76,13 +76,17 @@ Continous updates - Last Update 23.3.20
 * [Shoshala](https://www.youtube.com/watch?v=xZEgeaAY0cA) (free)
 * [West Coast Gimps](https://vimeo.com/55949380) (free)
 * [The Real Thing](https://www.youtube.com/watch?v=brbxoKEgsw0) (free)
+* [Masters of Stone II](https://www.youtube.com/watch?v=sAEUQyxf2vc) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
 * [Messner](https://www.primevideo.com/detail/0R5NTM9ZFTXY45XW8BE0MAI2T0) (amazon prime account)
 * [Messner](https://www.youtube.com/watch?v=QAuk38mUu1Y&t=3598s) (free)
+* [Messner - In nome della montagna (italian)](https://www.youtube.com/watch?v=lxsLHJOYlk4) (free)
+* [Messner Habeler: Everest Unmasked](https://www.youtube.com/watch?v=4lBM-8y1Ep4&t=0s) (free)
 * [Loslassen](https://www.primevideo.com/detail/0LCRBDZIFQ1ARGZXJAV7U82LNP) (amazon prime account)
 * [Cerro Kishtwar](https://www.primevideo.com/detail/0RV7UPU2U2EQU0YD6X2C3OMA8R) (amazon prime account)
+* [Cerro Torre - First Winter South East](https://www.youtube.com/watch?v=yMLmhlzgalg&feature=youtu.be) (free)
 * [Yugen](https://www.primevideo.com/detail/0SXK9DXKWMXAT830FUEAEDXTT1) (amazon prime account)
 * [The Road from Karakol](https://www.youtube.com/watch?v=DhFx17s4a2E) (free)
 * [China Jam](https://vimeo.com/ondemand/chinajam/112304856) (€)
@@ -104,13 +108,14 @@ Continous updates - Last Update 23.3.20
 * [Europe's Best Crags](https://www.epictv.com/media/series-home/europes-best-crags/255481?episode=255296) (free)
 * [Breath](https://www.primevideo.com/detail/0HSWIDK9RV02SHTVGV00MHQB2H) (amazon prime account)
 * [9b move by move](https://www.youtube.com/watch?v=BUBcNT8NYCA) (free)
-* [Jakob Schubert - Perfecto Mundo 9b+](https://www.youtube.com/watch?v=nmYXe2u0juM) (free)
+* [Jakob Schubert Perfecto Mundo 9b+](https://www.youtube.com/watch?v=nmYXe2u0juM) (free)
 * [Jimmy Webb: Dreamcatcher](https://www.youtube.com/watch?v=CMCexFuxQeE) (free)
 * [Adam Ondra Silence 9c](https://www.youtube.com/watch?v=ZRTNHDd0gL8) (free)
 * [Adam Ondra onsight Il Domani 9a](https://www.youtube.com/watch?v=qA8Bjp4SOkA) (free)
 * [Adam Ondra Chaxiraxi 9b](https://www.youtube.com/watch?v=uWZyvzzPXlU) (free)
 * [Adam Ondra Chilam Balam 9b](https://www.youtube.com/watch?v=ASvUhPsuLJE) (free)
 * [Stefano Ghisolfi Jungle Boogie 9a+](https://www.youtube.com/watch?v=JnWsIvtBPtw) (free)
+* [Stefano Ghisolfi Perfecto Mundo 9b+](https://www.youtube.com/watch?v=mb0w45jxJpA) (free)
 * [Gérôme Pouvreau Ganesh 5.14a](https://www.youtube.com/watch?v=Y3UDkcH5KzI) (free)
 * [Joe Kinder Bone Tomahawk 9a+](https://www.youtube.com/watch?v=pQBR96lPTvs) (free)
 * [Pirmin Bertle Le vent nous portera, 9a+, Socaire, Chile](https://vimeo.com/236289545) (free)
@@ -139,6 +144,8 @@ Continous updates - Last Update 23.3.20
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
 * [LeRouge83 - Climbing Movies](https://www.youtube.com/playlist?list=PLZpGJxNn968xS5luuJekAhUpTaoftfW_v)
+* [Mammuth - Reclimbing The Classics](https://www.youtube.com/watch?v=-QHkBqHkR6U&list=PLe07KVESaS70_omqiIQDqoAsYkpZaOr0F)
+* [RUMBLR - Rodellar](https://www.youtube.com/watch?v=dMMX_mYCACQ&list=PLn4uVR1HTnq7b_a-CNu5n91FOKRW31w2t) 
 
 ## About
 * [Repository Version](https://github.com/auridevil/awesome_climbing/)
@@ -156,11 +163,15 @@ Please use the format:
 
 We prefer to add free movies.
 ### Contributors
-* [Aureliano elmozzo](https://www.instagram.com/elmozzo_buendia/) 
+* [Aureliano elmozzo](https://www.instagram.com/elmozzo_buendia) 
 * Dyno Ciomparelli 
-* [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone/)
-* [CCO Filippi](https://www.instagram.com/fra.ci.filippi/)
-* [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia/)
-* [Matt Twight Cogno](https://www.instagram.com/matteo.cogno/)
+* [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone)
+* [CCO Filippi](https://www.instagram.com/fra.ci.filippi)
+* [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia)
+* [Matt Twight Cogno](https://www.instagram.com/matteo.cogno)
 * [Paolo DeNuccio](https://www.facebook.com/paolo.denuccio)
 * [Mauro Locatelli](https://twitter.com/crivotz)
+* [TarotNagasaki](https://www.reddit.com/user/TarotNagasaki)
+* [Maxwellmaxen](https://www.reddit.com/user/maxwellmaxen)
+* [Fifo Gafrex](https://www.instagram.com/gafreax)
+* [TomTeece](https://github.com/TomTeece)
