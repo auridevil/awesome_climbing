@@ -52,14 +52,10 @@ Continous updates - Last Update 24.3.20
 * [Out of Sight 1](https://www.youtube.com/watch?v=5H3iBbZPByA) (free)
 * [Out of Sight 2](https://www.youtube.com/watch?v=owq_Ojllb_A) (free)
 * [Out of Sight 3](https://www.youtube.com/watch?v=GmftEXJTsfg) (free)
-* [Tsūrisuto A Japanese Rockumentary](https://www.youtube.com/watch?v=QkPSls88GAo) (free)
 * [No Siesta Spain Trip](https://www.youtube.com/watch?v=5BZNIqiNIS0) (free)
-* [Abyss - North America's Highest Bouldering](https://www.youtube.com/watch?v=gLnM389Wo9Y) (free)
 * [Chalk Life](https://www.youtube.com/watch?v=qEN27iiG6YI) (free)
 * [Park Life - Yosemite Bouldering](https://www.youtube.com/watch?v=KPXOcOA1LmU) (free)
 * [National Geographic - To Climb The World](https://www.youtube.com/watch?v=NFfTHoJ9khs) (free)
-* [Daniel Woods in Shiobara](https://www.youtube.com/watch?v=4ycP_uEBjJM) (free)
-* [The Good Land - Bouldering at Devil's Lake, Wisconsin](https://www.youtube.com/watch?v=bA1j01hT-UQ) (free)
 * [Petzl RocTrip Argentina 2012](https://www.youtube.com/watch?v=QllWNEGBKic) (free)
 * [Petzl RocTrip Turkey 2014](https://www.youtube.com/watch?v=sWrNoka8jJw) (free)
 * [La grigna dei ragni](https://www.youtube.com/watch?v=dpxrGtLHDOU) (free)
@@ -70,8 +66,6 @@ Continous updates - Last Update 24.3.20
 * [Blood on the Crack](https://www.redbull.com/ca-en/films/blood-on-the-crack) (free)
 * [Lotus Flower](https://www.youtube.com/watch?v=hVkgSZUwn3k) (free)
 * [Shoshala](https://www.youtube.com/watch?v=xZEgeaAY0cA) (free)
-* [West Coast Gimps](https://vimeo.com/55949380) (free)
-* [The Real Thing](https://www.youtube.com/watch?v=brbxoKEgsw0) (free)
 * [Masters of Stone II](https://www.youtube.com/watch?v=sAEUQyxf2vc) (free)
 
 ## Mountaineering
@@ -101,6 +95,12 @@ Continous updates - Last Update 24.3.20
 * [Too tall to fall FA](https://www.youtube.com/watch?v=fkJ9DJcgi9g&t=696s) (free)
 * [Pretty tall](https://www.youtube.com/watch?v=xEjM5d5A23E) (free)
 * [Night moves](https://www.youtube.com/watch?v=x2ef9WT9qsw) (free)
+* [West Coast Gimps](https://vimeo.com/55949380) (free)
+* [The Good Land - Bouldering at Devil's Lake, Wisconsin](https://www.youtube.com/watch?v=bA1j01hT-UQ) (free)
+* [Abyss - North America's Highest Bouldering](https://www.youtube.com/watch?v=gLnM389Wo9Y) (free)
+* [Tsūrisuto A Japanese Rockumentary](https://www.youtube.com/watch?v=QkPSls88GAo) (free)
+* [The Real Thing](https://www.youtube.com/watch?v=brbxoKEgsw0) (free)
+* [Daniel Woods in Shiobara](https://www.youtube.com/watch?v=4ycP_uEBjJM) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
