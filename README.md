@@ -1,7 +1,7 @@
 # Awesome Climbing 🧗‍
-Unsorted Collection of Awesome Climbing Videos (>10 min) 
-
-Continous updates - Last Update 24.3.20
+Unsorted Collection of Awesome Climbing Videos (>10 min).
+Friction Against Covid19.
+Continous updates - Last Update 24.3.20.
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
