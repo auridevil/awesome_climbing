@@ -42,9 +42,6 @@ Continous updates - Last Update 24.3.20
 * [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
 * [Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
 * [The Schengen Files](https://www.youtube.com/watch?v=xXHPAIwJvhM) (free)
-* [Out of Sight 1](https://www.youtube.com/watch?v=5H3iBbZPByA) (free)
-* [Out of Sight 2](https://www.youtube.com/watch?v=owq_Ojllb_A) (free)
-* [Out of Sight 3](https://www.youtube.com/watch?v=GmftEXJTsfg) (free)
 * [No Siesta Spain Trip](https://www.youtube.com/watch?v=5BZNIqiNIS0) (free)
 * [Chalk Life](https://www.youtube.com/watch?v=qEN27iiG6YI) (free)
 * [Park Life - Yosemite Bouldering](https://www.youtube.com/watch?v=KPXOcOA1LmU) (free)
@@ -101,6 +98,9 @@ Continous updates - Last Update 24.3.20
 * [Backcountry Bouldering Part Four: Revelations](https://www.youtube.com/watch?v=PHBDfiUpXuc) (free)
 * [The North Face Rock Trip #01 SHIKOKU](https://www.youtube.com/watch?v=WjAmnLFlkbk) (free)
 * [Fontainebleau - Bouldering in the magical forest 2017](https://www.youtube.com/watch?v=Dtta58DcezQ) (free)
+* [Out of Sight 1](https://www.youtube.com/watch?v=5H3iBbZPByA) (free)
+* [Out of Sight 2](https://www.youtube.com/watch?v=owq_Ojllb_A) (free)
+* [Out of Sight 3](https://www.youtube.com/watch?v=GmftEXJTsfg) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
