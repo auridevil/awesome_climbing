@@ -74,6 +74,8 @@ Continous updates - Last Update 23.3.20
 * [Blood on the Crack](https://www.redbull.com/ca-en/films/blood-on-the-crack) (free)
 * [Lotus Flower](https://www.youtube.com/watch?v=hVkgSZUwn3k) (free)
 * [Shoshala](https://www.youtube.com/watch?v=xZEgeaAY0cA) (free)
+* [West Coast Gimps](https://vimeo.com/55949380) (free)
+* [The Real Thing](https://www.youtube.com/watch?v=brbxoKEgsw0) (free)
 
 ## Alp
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
