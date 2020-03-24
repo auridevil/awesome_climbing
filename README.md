@@ -170,15 +170,15 @@ If you have a IG account and you want to be linked in the contributor, please no
 
 We prefer to add free movies.
 ### Contributors
-* [Aureliano elmozzo](https://www.instagram.com/elmozzo_buendia) 
+* [Aureliano elmozzo](https://www.instagram.com/elmozzo_buendia) (mantainer)
+* [Matt Twight Cogno](https://www.instagram.com/matteo.cogno) (mantainer)
+* [Fifo Gafrex](https://www.instagram.com/gafreax) (mantainer)
 * Dyno Ciomparelli 
 * [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone)
 * [CCO Filippi](https://www.instagram.com/fra.ci.filippi)
 * [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia)
-* [Matt Twight Cogno](https://www.instagram.com/matteo.cogno)
 * [Paolo DeNuccio](https://www.facebook.com/paolo.denuccio)
 * [Mauro Locatelli](https://twitter.com/crivotz)
 * [TarotNagasaki](https://www.reddit.com/user/TarotNagasaki)
 * [Maxwellmaxen](https://www.reddit.com/user/maxwellmaxen)
-* [Fifo Gafrex](https://www.instagram.com/gafreax)
 * [TomTeece](https://github.com/TomTeece)
