@@ -57,6 +57,7 @@ Continous updates - Last Update 24.3.20
 * [Lotus Flower](https://www.youtube.com/watch?v=hVkgSZUwn3k) (free)
 * [Shoshala](https://www.youtube.com/watch?v=xZEgeaAY0cA) (free)
 * [Masters of Stone II](https://www.youtube.com/watch?v=sAEUQyxf2vc) (free)
+* [Wide Boyz](https://www.amazon.com/Wide-Boyz-Tom-Randall/dp/B07PX4MGXC) (us amazon prima account)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -182,3 +183,4 @@ We prefer to add free movies.
 * [TarotNagasaki](https://www.reddit.com/user/TarotNagasaki)
 * [Maxwellmaxen](https://www.reddit.com/user/maxwellmaxen)
 * [TomTeece](https://github.com/TomTeece)
+* [IcyStriker](https://www.reddit.com/user/IcyStriker)
