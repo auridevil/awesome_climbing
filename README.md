@@ -22,7 +22,6 @@ Continous updates - Last Update 24.3.20
 * [The Asgard Project](https://filmfestivalflix.com/festival/vertical-life-film-festival/film/the-asgard-project/) (€)
 * [Mirror Wall](https://www.youtube.com/watch?v=cBSnwpcYRqA) (free)
 * [Consumed](https://www.youtube.com/watch?v=IYIvX5vNA6s) (free)
-* [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
 * [Rampage](https://vimeo.com/ondemand/rampage) (€)
 * [Qualido - King of the Bongo](https://www.youtube.com/watch?v=MQDS9AquESI) (free)
 * [WIDE BOYZ: Spradventure](https://www.youtube.com/watch?v=gLQtytqJ_KM) (free)
@@ -49,13 +48,10 @@ Continous updates - Last Update 24.3.20
 * [Rooftown 1](https://www.youtube.com/watch?v=eLkYtpvAS88) (free)
 * [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
 * [Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
-* [The Mission - Torrido Bouldering](https://www.youtube.com/watch?v=W51zBGrcMRg) (free)
-* [Between the Trees - Bouldering in Fontainbleau](https://www.youtube.com/watch?v=IaxHcntnnIo) (free)
 * [The Schengen Files](https://www.youtube.com/watch?v=xXHPAIwJvhM) (free)
 * [Out of Sight 1](https://www.youtube.com/watch?v=5H3iBbZPByA) (free)
 * [Out of Sight 2](https://www.youtube.com/watch?v=owq_Ojllb_A) (free)
 * [Out of Sight 3](https://www.youtube.com/watch?v=GmftEXJTsfg) (free)
-* [Better than chocolate - Swiss Bouldering](https://www.youtube.com/watch?v=mHZC0B6OFfk) (free) 
 * [Tsūrisuto A Japanese Rockumentary](https://www.youtube.com/watch?v=QkPSls88GAo) (free)
 * [No Siesta Spain Trip](https://www.youtube.com/watch?v=5BZNIqiNIS0) (free)
 * [Abyss - North America's Highest Bouldering](https://www.youtube.com/watch?v=gLnM389Wo9Y) (free)
@@ -78,7 +74,7 @@ Continous updates - Last Update 24.3.20
 * [The Real Thing](https://www.youtube.com/watch?v=brbxoKEgsw0) (free)
 * [Masters of Stone II](https://www.youtube.com/watch?v=sAEUQyxf2vc) (free)
 
-## Alp
+## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
 * [Messner](https://www.primevideo.com/detail/0R5NTM9ZFTXY45XW8BE0MAI2T0) (amazon prime account)
 * [Messner](https://www.youtube.com/watch?v=QAuk38mUu1Y&t=3598s) (free)
@@ -96,6 +92,15 @@ Continous updates - Last Update 24.3.20
 * [Grimpeurs (italian version)](https://www.youtube.com/watch?v=wS1uiMMUSq4) (free)
 * [Into thin air Jon Krakauer (italian version)](https://www.youtube.com/watch?v=-XpUuIgyUHE) (free)
 * [Liv Along The Way](https://www.youtube.com/watch?v=ny18Pv_acpc) (free)
+
+## Bouldering (work in progress)
+* [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
+* [Better than chocolate - Swiss Bouldering](https://www.youtube.com/watch?v=mHZC0B6OFfk) (free) 
+* [The Mission - Torrido Bouldering](https://www.youtube.com/watch?v=W51zBGrcMRg) (free)
+* [Between the Trees - Bouldering in Fontainbleau](https://www.youtube.com/watch?v=IaxHcntnnIo) (free)
+* [Too tall to fall FA](https://www.youtube.com/watch?v=fkJ9DJcgi9g&t=696s) (free)
+* [Pretty tall](https://www.youtube.com/watch?v=xEjM5d5A23E) (free)
+* [Night moves](https://www.youtube.com/watch?v=x2ef9WT9qsw) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
@@ -160,6 +165,8 @@ If you want to contribute you can
 
 Please use the format: 
 >(section) title - link - free/€/account
+
+If you have a IG account and you want to be linked in the contributor, please notify.
 
 We prefer to add free movies.
 ### Contributors
