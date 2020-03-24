@@ -60,6 +60,13 @@ Continous updates - Last Update 24.3.20
 * [Of Choss & Lions](https://www.youtube.com/watch?v=mvOzAB8j5Eg) (free)
 * [Od palice k vrtu](https://www.youtube.com/watch?v=JZvhIlzV8Ec) (free)
 * [A Passion for New Routing](https://www.amazon.com/gp/video/detail/B07Q4YQZ1D/ref=atv_dp_share_cu_r) (us amazon prime account)
+* [A day in the life of 5 women who climb](https://youtu.be/8s7J1xAGtMU) (free)
+* [Moving over stone](https://youtu.be/V_Xe2eadPXY) (free)
+* [Moving over stone II](https://youtu.be/MiFFC1ZHboA) (free)
+* [Stone monkey - Johnny Dawes](https://youtu.be/e2L4VSDbb6A) (free)
+* [Indian Face - Johnny Dawes](https://youtu.be/4a34IAKFRAI) (free)
+* [Smitten](https://youtu.be/1Ri_C9RV5Jc) (free)
+* [Wind and rattlesnakes](https://vimeo.com/kyleduba/windandrattlesnakes) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -109,11 +116,20 @@ Continous updates - Last Update 24.3.20
 * [Rooftown 1](https://www.youtube.com/watch?v=eLkYtpvAS88) (free)
 * [Rooftown 2 Matt Gentile](https://www.youtube.com/watch?v=9nWAXMhY-2I) (free)
 * [The North Face Rock Trip 2016 in Bishop](https://www.youtube.com/watch?v=8-LpZTk3zVM) (free)
+* [Inertia Volume 2](https://youtu.be/8v7z4dQcwP8) (free)
+* [Soul Cal](https://youtu.be/5VLWTleiBPs) (free)
+* [The Island Vol 0](https://www.youtube.com/watch?v=shf2_c1vbHU) (free)
+* [A Colorado daydream](https://vimeo.com/304899885) (free)
+* [One Summer - Bouldering in the Peak in 1994](https://www.youtube.com/watch?v=RnGf69g6Igc) (free)
+* [Core](https://www.youtube.com/watch?v=GGNPzW6Zo-U) (free)
+* [John Dunne - Big Issue](https://www.youtube.com/watch?v=3D0Mp0RrQRA) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
 * [Loved By All: The Story of Apa Sherpa](https://vimeo.com/270499256) (free) 
 * [Kai Lin: Out On A Limb](https://www.youtube.com/watch?v=UsX_dyZvJ50) (free)
+* [Yosemite: ascending rhythm] (https://youtu.be/Hn7POKR9FDA) (free)
+
 
 ## Pitch
 * [Arnaud Petit climbs Black Bean Ceüse](https://www.youtube.com/watch?v=-TeTejh1ebs) (free)
@@ -192,3 +208,4 @@ We prefer to add free movies.
 * [TomTeece](https://github.com/TomTeece)
 * [IcyStriker](https://www.reddit.com/user/IcyStriker)
 * [Roguebones](https://github.com/roguebones)
+* [C_in_iDawg](https://www.reddit.com/user/C_in_iDawg)
