@@ -132,7 +132,7 @@ Continous updates - Last Update 24.3.20.
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
 * [Loved By All: The Story of Apa Sherpa](https://vimeo.com/270499256) (free) 
 * [Kai Lin: Out On A Limb](https://www.youtube.com/watch?v=UsX_dyZvJ50) (free)
-* [Yosemite: ascending rhythm] (https://youtu.be/Hn7POKR9FDA) (free)
+* [Yosemite: ascending rhythm](https://youtu.be/Hn7POKR9FDA) (free)
 * [Patrick Berhault - Metamorfosi](https://www.youtube.com/watch?v=wIwd2alHiC0) (free)
 
 ## Pitch
