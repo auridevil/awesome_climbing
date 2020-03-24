@@ -53,7 +53,13 @@ Continous updates - Last Update 24.3.20
 * [Lotus Flower](https://www.youtube.com/watch?v=hVkgSZUwn3k) (free)
 * [Shoshala](https://www.youtube.com/watch?v=xZEgeaAY0cA) (free)
 * [Masters of Stone II](https://www.youtube.com/watch?v=sAEUQyxf2vc) (free)
-* [Wide Boyz](https://www.amazon.com/Wide-Boyz-Tom-Randall/dp/B07PX4MGXC) (us amazon prima account)
+* [Wide Boyz](https://www.amazon.com/Wide-Boyz-Tom-Randall/dp/B07PX4MGXC) (us amazon prime account)
+* [Jacopo Larcher: Rise](https://www.youtube.com/watch?v=VTbWfPmsfg8) (free)
+* [Land of maybe](https://www.youtube.com/watch?v=10uM6IU8S6U) (free)
+* [Sawanobori](https://www.youtube.com/watch?v=-yNS7EF7LGI) (free)
+* [Of Choss & Lions](https://www.youtube.com/watch?v=mvOzAB8j5Eg) (free)
+* [Od palice k vrtu](https://www.youtube.com/watch?v=JZvhIlzV8Ec) (free)
+* [A Passion for New Routing](https://www.amazon.com/gp/video/detail/B07Q4YQZ1D/ref=atv_dp_share_cu_r) (us amazon prime account)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -73,6 +79,7 @@ Continous updates - Last Update 24.3.20
 * [Grimpeurs (italian version)](https://www.youtube.com/watch?v=wS1uiMMUSq4) (free)
 * [Into thin air Jon Krakauer (italian version)](https://www.youtube.com/watch?v=-XpUuIgyUHE) (free)
 * [Liv Along The Way](https://www.youtube.com/watch?v=ny18Pv_acpc) (free)
+* [Simone Moro & Tamara Lunger: Pobeda](https://www.youtube.com/watch?v=nWmXPWTkL9M) (free)
 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
@@ -184,3 +191,4 @@ We prefer to add free movies.
 * [Maxwellmaxen](https://www.reddit.com/user/maxwellmaxen)
 * [TomTeece](https://github.com/TomTeece)
 * [IcyStriker](https://www.reddit.com/user/IcyStriker)
+* [Roguebones](https://github.com/roguebones)
