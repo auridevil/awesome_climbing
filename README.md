@@ -1,7 +1,7 @@
 # Awesome Climbing 🧗‍
 Unsorted Collection of Awesome Climbing Videos (>10 min) 
 
-Continous updates - Last Update 23.3.20
+Continous updates - Last Update 24.3.20
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -137,6 +137,8 @@ Continous updates - Last Update 23.3.20
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
 * [LeRouge83 - Climbing Movies](https://www.youtube.com/playlist?list=PLZpGJxNn968xS5luuJekAhUpTaoftfW_v)
+* [Mammuth - Reclimbing The Classics](https://www.youtube.com/watch?v=-QHkBqHkR6U&list=PLe07KVESaS70_omqiIQDqoAsYkpZaOr0F)
+* [RUMBLR - Rodellar](https://www.youtube.com/watch?v=dMMX_mYCACQ&list=PLn4uVR1HTnq7b_a-CNu5n91FOKRW31w2t) 
 
 ## About
 * [Repository Version](https://github.com/auridevil/awesome_climbing/)
@@ -162,3 +164,4 @@ We prefer to add free movies.
 * [Matt Twight Cogno](https://www.instagram.com/matteo.cogno/)
 * [Paolo DeNuccio](https://www.facebook.com/paolo.denuccio)
 * [Mauro Locatelli](https://twitter.com/crivotz)
+* [TarotNagasaki](https://www.reddit.com/user/TarotNagasaki/)
