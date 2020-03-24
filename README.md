@@ -69,6 +69,8 @@ Continous updates - Last Update 24.3.20.
 * [Indian Face - Johnny Dawes](https://youtu.be/4a34IAKFRAI) (free)
 * [Smitten](https://youtu.be/1Ri_C9RV5Jc) (free)
 * [Wind and rattlesnakes](https://vimeo.com/kyleduba/windandrattlesnakes) (free)
+* [Verdon Forever](https://www.youtube.com/watch?v=baM7PdGWCgs) (free)
+* [Opera Vertical Patrick Edlinger - Restaured](https://www.youtube.com/watch?v=FISzNCKJ1yo) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -131,7 +133,7 @@ Continous updates - Last Update 24.3.20.
 * [Loved By All: The Story of Apa Sherpa](https://vimeo.com/270499256) (free) 
 * [Kai Lin: Out On A Limb](https://www.youtube.com/watch?v=UsX_dyZvJ50) (free)
 * [Yosemite: ascending rhythm] (https://youtu.be/Hn7POKR9FDA) (free)
-
+* [Patrick Berhault - Metamorfosi](https://www.youtube.com/watch?v=wIwd2alHiC0) (free)
 
 ## Pitch
 * [Arnaud Petit climbs Black Bean Ceüse](https://www.youtube.com/watch?v=-TeTejh1ebs) (free)
@@ -171,6 +173,7 @@ Continous updates - Last Update 24.3.20.
 * [Black Mountain Bouldering - The Austrian Point of View](https://www.youtube.com/watch?v=wGVio6sGYXw) (free)
 * [An Untouched Paradise - Monte Lu Bagnu, Sardinia Bouldering (Part 1)](https://www.youtube.com/watch?v=DnievB3ZWgU) (free)
 * [Storms and Sunshine in Albarracin](https://www.youtube.com/watch?v=yhiyyiMllEc) (free)
+* [I prigionieri di Ceredo](https://vimeo.com/42230047) (free)
 
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
@@ -211,3 +214,4 @@ We prefer to add free movies.
 * [IcyStriker](https://www.reddit.com/user/IcyStriker)
 * [Roguebones](https://github.com/roguebones)
 * [C_in_iDawg](https://www.reddit.com/user/C_in_iDawg)
+* [Massimo Marconi](https://iloveclimbing.co/page/massimo-marconi-41048)
