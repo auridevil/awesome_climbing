@@ -3,7 +3,7 @@ Unsorted Collection of Awesome Climbing Videos (>10 min).
 
 Friction Against Covid19.
 
-Continous updates - Last Update 24.3.20.
+Continous updates - Last Update 25.3.20.
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -71,6 +71,17 @@ Continous updates - Last Update 24.3.20.
 * [Wind and rattlesnakes](https://vimeo.com/kyleduba/windandrattlesnakes) (free)
 * [Verdon Forever](https://www.youtube.com/watch?v=baM7PdGWCgs) (free)
 * [Opera Vertical Patrick Edlinger - Restaured](https://www.youtube.com/watch?v=FISzNCKJ1yo) (free)
+* [Valley Uprising](https://watch.amazon.com/detail?gti=amzn1.dv.gti.a2abff3f-dfc2-c1bf-1939-12bacdd5aa75&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Vertical Frontier](https://watch.amazon.com/detail?gti=amzn1.dv.gti.78a9f7c5-b666-e40c-10f5-849f963e5abe&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Assault on El Capitan](https://watch.amazon.com/detail?gti=amzn1.dv.gti.baa9f70a-487e-369b-44cd-45d3c5216795&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Wide Boyz](https://watch.amazon.com/detail?gti=amzn1.dv.gti.94b4de74-bb18-8740-bcc9-c640dd50e33b&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Wide Boyz II](https://watch.amazon.com/detail?gti=amzn1.dv.gti.12a9f7a6-00ba-7e9b-eb6c-dd65131246f0&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Africa Fusion](https://watch.amazon.com/detail?gti=amzn1.dv.gti.58ae9e6b-64ef-b80a-bb36-74b34308521b&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Fine Lines](https://watch.amazon.com/detail?gti=amzn1.dv.gti.3eb75321-6ccd-2339-0fb4-e16896b381be&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Redemption](https://watch.amazon.com/detail?gti=amzn1.dv.gti.0ab30eaf-2094-2fc7-a87b-a677c28fab25&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Shifting Dreams](https://watch.amazon.com/detail?gti=amzn1.dv.gti.78b12515-2409-bd0a-2258-1c5d7875818c&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Autana](https://watch.amazon.com/detail?gti=amzn1.dv.gti.a8b5f723-d920-8d43-6de5-ad2130fe0cb0&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Dirtbag](https://watch.amazon.com/detail?gti=amzn1.dv.gti.4ab11b34-ba2a-55cd-1faf-9fc2fd6b7520&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -127,6 +138,8 @@ Continous updates - Last Update 24.3.20.
 * [One Summer - Bouldering in the Peak in 1994](https://www.youtube.com/watch?v=RnGf69g6Igc) (free)
 * [Core](https://www.youtube.com/watch?v=GGNPzW6Zo-U) (free)
 * [John Dunne - Big Issue](https://www.youtube.com/watch?v=3D0Mp0RrQRA) (free)
+* [Bloc Heads](https://watch.amazon.com/detail?gti=amzn1.dv.gti.f4b4db18-1587-3b23-86cf-b1eeeab6785c&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Western Gold](https://watch.amazon.com/detail?gti=amzn1.dv.gti.c0b6a765-a94e-c8df-1947-6791b25e5e85&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
@@ -215,3 +228,4 @@ We prefer to add free movies.
 * [Roguebones](https://github.com/roguebones)
 * [C_in_iDawg](https://www.reddit.com/user/C_in_iDawg)
 * [Massimo Marconi](https://iloveclimbing.co/page/massimo-marconi-41048)
+* [Poorboychevelle](https://www.reddit.com/user/poorboychevelle)
