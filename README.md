@@ -170,6 +170,7 @@ Continous updates - Last Update 25.3.20.
 * [Beyond good and evil](https://www.youtube.com/watch?v=ISagf2eCzKg&t=180s) (free)
 * [Slovak Direct, Denali - Houseman/Bullock](https://www.youtube.com/watch?v=QUMHPnV8qz0) (free)
 * [Beneath the Ice](https://www.redbull.com/ca-en/films/beneath-the-ice) (free)
+* [Goulotte Carli-Chassagne, Aiguille du Midi](https://www.youtube.com/watch?v=7WTTiF8PKn4) (free)
 
 ## Homevideos
 * [This is Africa](https://vimeo.com/180634123) (free)
@@ -187,6 +188,7 @@ Continous updates - Last Update 25.3.20.
 * [An Untouched Paradise - Monte Lu Bagnu, Sardinia Bouldering (Part 1)](https://www.youtube.com/watch?v=DnievB3ZWgU) (free)
 * [Storms and Sunshine in Albarracin](https://www.youtube.com/watch?v=yhiyyiMllEc) (free)
 * [I prigionieri di Ceredo](https://vimeo.com/42230047) (free)
+* [Petit Dru, Face W, American Direct](https://www.youtube.com/watch?v=SrVJ1oX_Sss) (free)
 
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
