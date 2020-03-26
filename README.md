@@ -106,6 +106,7 @@ Continous updates - Last Update 26.3.20.
 * [Liv Along The Way](https://www.youtube.com/watch?v=ny18Pv_acpc) (free)
 * [Simone Moro & Tamara Lunger: Pobeda](https://www.youtube.com/watch?v=nWmXPWTkL9M) (free)
 * [Nordwand (italian version)][pt1](https://www.youtube.com/watch?v=edDIfudgK1E)[pt2](https://www.youtube.com/watch?v=qGk3gxjp4SI) (free)
+* [Hervé Barmasse - Linea Continua (english subtitles)](https://www.youtube.com/watch?v=ndbwbdZ21SQ) (free)
 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
