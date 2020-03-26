@@ -105,6 +105,7 @@ Continous updates - Last Update 26.3.20.
 * [Into thin air Jon Krakauer (italian version)](https://www.youtube.com/watch?v=-XpUuIgyUHE) (free)
 * [Liv Along The Way](https://www.youtube.com/watch?v=ny18Pv_acpc) (free)
 * [Simone Moro & Tamara Lunger: Pobeda](https://www.youtube.com/watch?v=nWmXPWTkL9M) (free)
+* [Nordwand (italian version)][pt1](https://www.youtube.com/watch?v=edDIfudgK1E)[pt2](https://www.youtube.com/watch?v=qGk3gxjp4SI) (free)
 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
@@ -236,3 +237,4 @@ We prefer to add free movies.
 * [Massimo Marconi](https://iloveclimbing.co/page/massimo-marconi-41048)
 * [Poorboychevelle](https://www.reddit.com/user/poorboychevelle)
 * [Elis Ruighi](https://www.instagram.com/elis.rgh/)
+* [Emilio Perona il Fortissimo](https://www.instagram.com/emilioperona/)
