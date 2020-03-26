@@ -3,7 +3,7 @@ Unsorted Collection of Awesome Climbing Videos (>10 min).
 
 Friction Against Covid19.
 
-Continous updates - Last Update 25.3.20.
+Continous updates - Last Update 26.3.20.
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -82,6 +82,9 @@ Continous updates - Last Update 25.3.20.
 * [Shifting Dreams](https://watch.amazon.com/detail?gti=amzn1.dv.gti.78b12515-2409-bd0a-2258-1c5d7875818c&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
 * [Autana](https://watch.amazon.com/detail?gti=amzn1.dv.gti.a8b5f723-d920-8d43-6de5-ad2130fe0cb0&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
 * [Dirtbag](https://watch.amazon.com/detail?gti=amzn1.dv.gti.4ab11b34-ba2a-55cd-1faf-9fc2fd6b7520&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [No country for old bolts - Nina Caprez & Cédric Lachat](https://www.youtube.com/watch?v=dr1LA5EFym8) (free)
+* [MAD in Madagascar - Sean Villanueva & Siebe Vanhee](https://www.youtube.com/watch?v=UnDFLXHa80E) (free)
+* [The Power Of Jam Tram](https://www.youtube.com/watch?v=tOIr1An3Nvk) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -165,6 +168,7 @@ Continous updates - Last Update 25.3.20.
 * [Gérôme Pouvreau Ganesh 5.14a](https://www.youtube.com/watch?v=Y3UDkcH5KzI) (free)
 * [Joe Kinder Bone Tomahawk 9a+](https://www.youtube.com/watch?v=pQBR96lPTvs) (free)
 * [Pirmin Bertle Le vent nous portera, 9a+, Socaire, Chile](https://vimeo.com/236289545) (free)
+* [Cédric Lachat - Pachamama 9a+](https://www.youtube.com/watch?v=Vgdd7OnOv-4&) (free)
 
 ## Ice
 * [Beyond good and evil](https://www.youtube.com/watch?v=ISagf2eCzKg&t=180s) (free)
@@ -231,3 +235,4 @@ We prefer to add free movies.
 * [C_in_iDawg](https://www.reddit.com/user/C_in_iDawg)
 * [Massimo Marconi](https://iloveclimbing.co/page/massimo-marconi-41048)
 * [Poorboychevelle](https://www.reddit.com/user/poorboychevelle)
+* [Elis Ruighi](https://www.instagram.com/elis.rgh/)
