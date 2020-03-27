@@ -199,7 +199,7 @@ Continous updates - Last Update 26.3.20.
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
 * [LeRouge83 - Climbing Movies](https://www.youtube.com/playlist?list=PLZpGJxNn968xS5luuJekAhUpTaoftfW_v)
-* [Mammuth - Reclimbing The Classics](https://www.youtube.com/watch?v=-QHkBqHkR6U&list=PLe07KVESaS70_omqiIQDqoAsYkpZaOr0F)
+* [Mammut - Reclimbing The Classics](https://www.youtube.com/watch?v=-QHkBqHkR6U&list=PLe07KVESaS70_omqiIQDqoAsYkpZaOr0F)
 * [RUMBLR - Rodellar](https://www.youtube.com/watch?v=dMMX_mYCACQ&list=PLn4uVR1HTnq7b_a-CNu5n91FOKRW31w2t) 
 
 ## About
