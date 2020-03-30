@@ -19,7 +19,7 @@ Continous updates - Last Update 26.3.20.
 * [Zembrocal - Back to Reunion Island](https://www.primevideo.com/detail/0TN5D043G1SEGQ0YFANL1QJLR0) (amazon prime account)
 * [Western Gold](https://www.primevideo.com/detail/0RZHKOE9QJLHV9T9FBMAS2Y1UW) (amazon prime account)
 * [Deep Water](https://www.primevideo.com/detail/0U8HO7U8SNI66I5SLV3W9Z9YP4) (amazon prime account)
-* [Free Solo](https://www.hulu.com/movie/free-solo-5bc87ba3-cda0-4f46-b81c-4c3ea170e9d1) (hulu account)
+* [Free Solo](https://www.hulu.com/movie/free-solo-5bc87ba3-cda0-4f46-b81c-4c3ea170e9d1) (hulu account, also available on [disney+](https://www.disneyplus.com/movies/free-solo/3ibzvuU6iPlE))
 * [Jeff Lowes Metanoia](https://filmfestivalflix.com/festival/vertical-life-film-festival/film/jeff-lowes-metanoia) (€)
 * [The Asgard Project](https://filmfestivalflix.com/festival/vertical-life-film-festival/film/the-asgard-project/) (€)
 * [Mirror Wall](https://www.youtube.com/watch?v=cBSnwpcYRqA) (free)
@@ -199,7 +199,7 @@ Continous updates - Last Update 26.3.20.
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
 * [LeRouge83 - Climbing Movies](https://www.youtube.com/playlist?list=PLZpGJxNn968xS5luuJekAhUpTaoftfW_v)
-* [Mammuth - Reclimbing The Classics](https://www.youtube.com/watch?v=-QHkBqHkR6U&list=PLe07KVESaS70_omqiIQDqoAsYkpZaOr0F)
+* [Mammut - Reclimbing The Classics](https://www.youtube.com/watch?v=-QHkBqHkR6U&list=PLe07KVESaS70_omqiIQDqoAsYkpZaOr0F)
 * [RUMBLR - Rodellar](https://www.youtube.com/watch?v=dMMX_mYCACQ&list=PLn4uVR1HTnq7b_a-CNu5n91FOKRW31w2t) 
 
 ## About
