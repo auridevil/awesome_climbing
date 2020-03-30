@@ -264,3 +264,4 @@ We prefer to add free movies.
 * [Emilio Perona il Fortissimo](https://www.instagram.com/emilioperona/)
 * [EricRoe](https://github.com/EricRoe)
 * [Outstide.fr](https://www.outside.fr/)
+* [Saverio Delpriori](https://www.instagram.com/dlpswr/)
