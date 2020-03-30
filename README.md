@@ -40,7 +40,7 @@ Continous updates - Last Update 30.3.20.
 * [Basilicata Stray Rock](https://www.youtube.com/watch?v=ZW4xmNX1t34) (free)
 * [Orbayu](https://www.youtube.com/watch?v=J7QeAx8mn9A) (free)
 * [The North Face Rock Trip in Kinkasan](https://www.youtube.com/watch?v=yvT7lAAA_aI) (free)
-* [Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
+* [Free -Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
 * [No Siesta Spain Trip](https://www.youtube.com/watch?v=5BZNIqiNIS0) (free)
 * [Chalk Life](https://www.youtube.com/watch?v=qEN27iiG6YI) (free)
 * [Park Life - Yosemite Bouldering](https://www.youtube.com/watch?v=KPXOcOA1LmU) (free)
@@ -86,6 +86,10 @@ Continous updates - Last Update 30.3.20.
 * [No country for old bolts - Nina Caprez & Cédric Lachat](https://www.youtube.com/watch?v=dr1LA5EFym8) (free)
 * [MAD in Madagascar - Sean Villanueva & Siebe Vanhee](https://www.youtube.com/watch?v=UnDFLXHa80E) (free)
 * [The Power Of Jam Tram](https://www.youtube.com/watch?v=tOIr1An3Nvk) (free)
+* [Sawanobori](https://www.youtube.com/watch?v=-yNS7EF7LGI)
+* [Jacopo Larcher's Rise](https://www.youtube.com/watch?v=VTbWfPmsfg8) (free)
+* [Escalade Dévers - Patrick Bérhault](https://www.youtube.com/watch?v=vffob8zj32E) (free)
+* [La Vie Au Bout Des Doigts](https://www.youtube.com/watch?v=CZlxY5rNGJk) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -114,6 +118,7 @@ Continous updates - Last Update 30.3.20.
 * [Sur le fil des 4000 - Patrick Berhault, Philippe Magnin](https://www.youtube.com/watch?v=dgTc6LmG9Ok) (free)
 * [Bal Au Dessus] (https://vimeo.com/263853882) (free)
 * [Expédition Siula Grande : Le Bruit Des Glaçons](https://www.youtube.com/watch?v=87TiKUn9Qpo) (free)
+* [La Cordée de rêve - Berhault, Edlinger, Magnin](https://www.youtube.com/watch?v=lvvPUgz7BiI) (free)
  
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
