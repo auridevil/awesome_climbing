@@ -108,7 +108,13 @@ Continous updates - Last Update 30.3.20.
 * [Simone Moro & Tamara Lunger: Pobeda](https://www.youtube.com/watch?v=nWmXPWTkL9M) (free)
 * [Nordwand (italian version)][pt1](https://www.youtube.com/watch?v=edDIfudgK1E)[pt2](https://www.youtube.com/watch?v=qGk3gxjp4SI) (free)
 * [Hervé Barmasse - Linea Continua (english subtitles)](https://www.youtube.com/watch?v=ndbwbdZ21SQ) (free)
-
+* [Changabang et les miroirs d'une répétition](https://www.youtube.com/watch?v=RMEXoCofcW0) (free)
+* [Riso Patron](https://vimeo.com/257537478) (free)
+* [The North Face Presents: Lhotse](https://www.youtube.com/watch?v=wPXSFVruIHI) (free)
+* [Sur le fil des 4000 - Patrick Berhault, Philippe Magnin](https://www.youtube.com/watch?v=dgTc6LmG9Ok) (free)
+* [Bal Au Dessus] (https://vimeo.com/263853882) (free)
+* [Expédition Siula Grande : Le Bruit Des Glaçons](https://www.youtube.com/watch?v=87TiKUn9Qpo) (free)
+ 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
 * [Better than chocolate - Swiss Bouldering](https://www.youtube.com/watch?v=mHZC0B6OFfk) (free) 
@@ -153,6 +159,7 @@ Continous updates - Last Update 30.3.20.
 * [Kai Lin: Out On A Limb](https://www.youtube.com/watch?v=UsX_dyZvJ50) (free)
 * [Yosemite: ascending rhythm](https://youtu.be/Hn7POKR9FDA) (free)
 * [Patrick Berhault - Metamorfosi](https://www.youtube.com/watch?v=wIwd2alHiC0) (free)
+* [Ascending Afghanistan: Women Rising](https://video.vice.com/en_us/video/vice-impact-ascending-afghanistan-rising-women/587674bff0d3f0d206a3cec6?latest=1) (free)
 
 ## Pitch
 * [Arnaud Petit climbs Black Bean Ceüse](https://www.youtube.com/watch?v=-TeTejh1ebs) (free)
