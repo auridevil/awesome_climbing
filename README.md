@@ -91,6 +91,7 @@ Added new Envrionment section!
 * [Jacopo Larcher's Rise](https://www.youtube.com/watch?v=VTbWfPmsfg8) (free)
 * [Escalade Dévers - Patrick Bérhault](https://www.youtube.com/watch?v=vffob8zj32E) (free)
 * [La Vie Au Bout Des Doigts](https://www.youtube.com/watch?v=CZlxY5rNGJk) (free)
+* [Without a partner](https://www.youtube.com/watch?v=CikzYN0z4zU) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
