@@ -44,7 +44,6 @@ Added new Envrionment section!
 * [Free -Big Wall climbing in yosemite](https://www.youtube.com/watch?v=ZtjIcPcq61E) (free)
 * [No Siesta Spain Trip](https://www.youtube.com/watch?v=5BZNIqiNIS0) (free)
 * [Chalk Life](https://www.youtube.com/watch?v=qEN27iiG6YI) (free)
-* [Park Life - Yosemite Bouldering](https://www.youtube.com/watch?v=KPXOcOA1LmU) (free)
 * [National Geographic - To Climb The World](https://www.youtube.com/watch?v=NFfTHoJ9khs) (free)
 * [Petzl RocTrip Argentina 2012](https://www.youtube.com/watch?v=QllWNEGBKic) (free)
 * [Petzl RocTrip Turkey 2014](https://www.youtube.com/watch?v=sWrNoka8jJw) (free)
@@ -159,6 +158,7 @@ Added new Envrionment section!
 * [John Dunne - Big Issue](https://www.youtube.com/watch?v=3D0Mp0RrQRA) (free)
 * [Bloc Heads](https://watch.amazon.com/detail?gti=amzn1.dv.gti.f4b4db18-1587-3b23-86cf-b1eeeab6785c&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
 * [Western Gold](https://watch.amazon.com/detail?gti=amzn1.dv.gti.c0b6a765-a94e-c8df-1947-6791b25e5e85&ref_=atv_dp_share_mv&r=web) (us amazon prime account)
+* [Park Life - Yosemite Bouldering](https://www.youtube.com/watch?v=KPXOcOA1LmU) (free)
 
 ## Various
 * [abc of.. climbing](https://www.redbull.com/int-en/episodes/abc-of-s2-e1-climbing) (free)
