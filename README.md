@@ -262,3 +262,4 @@ We prefer to add free movies.
 * [Elis Ruighi](https://www.instagram.com/elis.rgh/)
 * [Emilio Perona il Fortissimo](https://www.instagram.com/emilioperona/)
 * [EricRoe](https://github.com/EricRoe)
+* [Outstide.fr](https://www.outside.fr/)
