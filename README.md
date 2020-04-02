@@ -232,6 +232,8 @@ Added new Envrionment section!
 * [Takayna](https://www.youtube.com/watch?v=MHdE2YCRjck) (free)
 
 ## About
+The latest addition are at the end of each section.
+
 * [Repository Version](https://github.com/auridevil/awesome_climbing/)
 * [Website version](https://auridevil.github.io/awesome_climbing/)
 
