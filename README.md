@@ -192,7 +192,9 @@ Added new Envrionment section!
 * [Slovak Direct, Denali - Houseman/Bullock](https://www.youtube.com/watch?v=QUMHPnV8qz0) (free)
 * [Beneath the Ice](https://www.redbull.com/ca-en/films/beneath-the-ice) (free)
 * [Goulotte Carli-Chassagne, Aiguille du Midi](https://www.youtube.com/watch?v=7WTTiF8PKn4) (free)
-* Ice, Anarchy & the Pursuit of Madness [Pt1](https://www.youtube.com/watch?v=mHHGp5ot9YY) [Pt2](https://www.youtube.com/watch?v=7GYIm9UMm-c) [Pt3](https://www.youtube.com/watch?v=EVBqqmKN_mA) (free)
+* [Ice, Anarchy & the Pursuit of Madness Part1](https://www.youtube.com/watch?v=mHHGp5ot9YY) (free)
+* [Ice, Anarchy & the Pursuit of Madness Part2](https://www.youtube.com/watch?v=7GYIm9UMm-c) (free)
+* [Ice, Anarchy & the Pursuit of Madness Part3](https://www.youtube.com/watch?v=EVBqqmKN_mA) (free)
 
 ## Homevideos
 * [This is Africa](https://vimeo.com/180634123) (free)
