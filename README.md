@@ -91,6 +91,8 @@ Added new Envrionment section!
 * [Escalade Dévers - Patrick Bérhault](https://www.youtube.com/watch?v=vffob8zj32E) (free)
 * [La Vie Au Bout Des Doigts](https://www.youtube.com/watch?v=CZlxY5rNGJk) (free)
 * [Without a partner](https://www.youtube.com/watch?v=CikzYN0z4zU) (free)
+* [Donnafugata](https://www.youtube.com/watch?v=cq9qnX32Zos) (free)
+* [Bavarian Direct - Huberbuam](https://vimeo.com/401260555) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
