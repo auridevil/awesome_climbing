@@ -122,7 +122,7 @@ Added new Envrionment section!
 * [Riso Patron](https://vimeo.com/257537478) (free)
 * [The North Face Presents: Lhotse](https://www.youtube.com/watch?v=wPXSFVruIHI) (free)
 * [Sur le fil des 4000 - Patrick Berhault, Philippe Magnin](https://www.youtube.com/watch?v=dgTc6LmG9Ok) (free)
-* [Bal Au Dessus] (https://vimeo.com/263853882) (free)
+* [Bal Au Dessus](https://vimeo.com/263853882) (free)
 * [Expédition Siula Grande : Le Bruit Des Glaçons](https://www.youtube.com/watch?v=87TiKUn9Qpo) (free)
 * [La Cordée de rêve - Berhault, Edlinger, Magnin](https://www.youtube.com/watch?v=lvvPUgz7BiI) (free)
 
