@@ -1,7 +1,7 @@
 # Awesome Climbing 🧗‍
 <img src="https://auridevil.github.com/awesome_climbing/images/awesome_climbing.png" width="300">
-Unsorted Collection of Awesome Climbing Videos (>10 min).
 
+## Unsorted Collection of Awesome Climbing Videos (>10 min).
 Friction Against Covid19.
 Last Update 08.04.20. New Envrionment section!
 
