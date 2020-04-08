@@ -277,4 +277,3 @@ We prefer to add free movies.
 * [EricRoe](https://github.com/EricRoe)
 * [Outstide.fr](https://www.outside.fr/)
 * [Saverio Delpriori](https://www.instagram.com/dlpswr/)
-* [Paolo de Nuccio](https://github.com/nucce)
