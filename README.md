@@ -1,4 +1,4 @@
-![Awesome Climbing](https://auridevil.github.com/awesome_climbing/images/awesome_climbing.png =400x)
+![](https://auridevil.github.com/awesome_climbing/images/awesome_climbing.png =250x)
 # 🧗‍Awesome Climbing 🧗‍
 Unsorted Collection of Awesome Climbing Videos (>10 min).
 
