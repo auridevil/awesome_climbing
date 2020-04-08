@@ -96,6 +96,7 @@ Last Update 08.04.20. New Envrionment section!
 * [Bavarian Direct - Huberbuam](https://vimeo.com/401260555) (free)
 * [Madagascar - Rivotra Mahery](https://www.youtube.com/watch?v=_C1ET02iOeQ) (free)
 * [Golden Gate, Emily Harrington](https://www.youtube.com/watch?v=W8kru0kTTvk) (free)
+* [Gian Carlo Grassi, l’uomo del giardino di cristallo (italian)](https://vimeo.com/404956704) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -259,6 +260,7 @@ We prefer to add free movies.
 * [Matt Twight Cogno](https://www.instagram.com/matteo.cogno) (mantainer)
 * [Fifo Gafrex](https://www.instagram.com/gafreax) (mantainer)
 * [Ely Seibipiu Mondino](https://www.instagram.com/ely_mondino/)
+* [Jerba Canepazzo](https://www.facebook.com/profile.php?id=100016643972050)
 * [Dyno Ciomparelli](https://www.youtube.com/watch?v=17khWnP9d6c)
 * [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone)
 * [CCO Filippi](https://www.instagram.com/fra.ci.filippi)
