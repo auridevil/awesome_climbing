@@ -3,7 +3,7 @@ Unsorted Collection of Awesome Climbing Videos (>10 min).
 
 Friction Against Covid19.
 
-Continous updates - Last Update 02.04.20.
+Continous updates - Last Update 08.04.20.
 Added new Envrionment section!
 
 ## Movies
@@ -93,6 +93,9 @@ Added new Envrionment section!
 * [Without a partner](https://www.youtube.com/watch?v=CikzYN0z4zU) (free)
 * [Donnafugata](https://www.youtube.com/watch?v=cq9qnX32Zos) (free)
 * [Bavarian Direct - Huberbuam](https://vimeo.com/401260555) (free)
+* [Madagascar - Rivotra Mahery](https://www.youtube.com/watch?v=_C1ET02iOeQ) (free)
+* [Golden Gate, Emily Harrington](https://www.youtube.com/watch?v=W8kru0kTTvk) (free)
+* [Rampage](https://www.youtube.com/watch?v=Cqe_w2JTlKM) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -122,7 +125,8 @@ Added new Envrionment section!
 * [Bal Au Dessus] (https://vimeo.com/263853882) (free)
 * [Expédition Siula Grande : Le Bruit Des Glaçons](https://www.youtube.com/watch?v=87TiKUn9Qpo) (free)
 * [La Cordée de rêve - Berhault, Edlinger, Magnin](https://www.youtube.com/watch?v=lvvPUgz7BiI) (free)
- 
+
+
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
 * [Better than chocolate - Swiss Bouldering](https://www.youtube.com/watch?v=mHZC0B6OFfk) (free) 
@@ -273,3 +277,4 @@ We prefer to add free movies.
 * [EricRoe](https://github.com/EricRoe)
 * [Outstide.fr](https://www.outside.fr/)
 * [Saverio Delpriori](https://www.instagram.com/dlpswr/)
+* [Paolo de Nuccio](https://github.com/nucce)
