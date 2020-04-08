@@ -1,5 +1,5 @@
 ![Awesome Climbing](https://auridevil.github.com/awesome_climbing/images/awesome_climbing.png)
-# Awesome Climbing 🧗‍
+# 🧗‍Awesome Climbing 🧗‍
 Unsorted Collection of Awesome Climbing Videos (>10 min).
 
 Friction Against Covid19.
