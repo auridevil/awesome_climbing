@@ -1,3 +1,4 @@
+![Awesome Climbing](https://auridevil.github.com/awesome_climbing/images/awesome_climbing.png)
 # Awesome Climbing 🧗‍
 Unsorted Collection of Awesome Climbing Videos (>10 min).
 
@@ -258,6 +259,7 @@ We prefer to add free movies.
 * [Aureliano elmozzo](https://www.instagram.com/elmozzo_buendia) (mantainer)
 * [Matt Twight Cogno](https://www.instagram.com/matteo.cogno) (mantainer)
 * [Fifo Gafrex](https://www.instagram.com/gafreax) (mantainer)
+* [Ely Seibipiu Mondino](https://www.instagram.com/ely_mondino/)
 * [Dyno Ciomparelli](https://www.youtube.com/watch?v=17khWnP9d6c)
 * [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone)
 * [CCO Filippi](https://www.instagram.com/fra.ci.filippi)
@@ -277,3 +279,5 @@ We prefer to add free movies.
 * [EricRoe](https://github.com/EricRoe)
 * [Outstide.fr](https://www.outside.fr/)
 * [Saverio Delpriori](https://www.instagram.com/dlpswr/)
+
+## Thanks
