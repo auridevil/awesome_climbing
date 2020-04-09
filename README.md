@@ -1,4 +1,4 @@
-# Awesome Climbing 🧗‍ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Climbing  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)🧗‍
 <img src="https://auridevil.github.com/awesome_climbing/images/awesome_climbing.png" width="300">
 
 ## Unsorted Collection of Awesome Climbing Videos (>10 min).
