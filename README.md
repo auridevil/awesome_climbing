@@ -4,7 +4,7 @@
 ## Unsorted Collection of Awesome Climbing Videos (>10 min).
 Friction Against Covid19.
 
-Last Update 08.04.20. New Envrionment section!
+Last Update 09.04.20. New Envrionment section!
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -282,3 +282,5 @@ We prefer to add free movies.
 * [Saverio Delpriori](https://www.instagram.com/dlpswr/)
 
 ## Thanks
+* [freepik.com](https://www.freepik.com/) for logo parts
+* [jekill](https://jekyllrb.com/) for blog engine
