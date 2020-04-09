@@ -4,7 +4,7 @@
 ## Unsorted Collection of Awesome Climbing Videos (>10 min).
 Friction Against Covid19.
 
-Last Update 09.04.20. New Envrionment section!
+Last Update 09.04.20. New Envrionment and Podcast sections!
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -235,6 +235,9 @@ Last Update 09.04.20. New Envrionment section!
 * [Unbroken Ground](https://www.youtube.com/watch?v=3Ezkp7Cteys) (free)
 * [Estado Salmonero](https://www.youtube.com/watch?v=D_fg1MV5YCI) (free)
 * [Takayna](https://www.youtube.com/watch?v=MHdE2YCRjck) (free)
+
+## Podcast (new!)
+* [Recensioni Brocche - Climbing Books review, in italian](https://open.spotify.com/show/6Gx6ht1JaeOhel8KaZaxm7) (free)
 
 ## About
 The latest addition are at the end of each section.
