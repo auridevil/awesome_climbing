@@ -99,6 +99,7 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 * [Eternal Flame - Huberbuam](https://vimeo.com/405736089) (free)
 * [Jeff Lowe's Metanoia](https://www.youtube.com/watch?v=JMvt0bpWj2U) (free)
 * [The Pathan Project](https://www.youtube.com/watch?v=jCjGFiftth0) (free) 
+* [Real Rock - Urban Climbing](https://www.youtube.com/watch?v=rFtiJifvOuo) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -224,6 +225,8 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 * [Petit Dru, Face W, American Direct](https://www.youtube.com/watch?v=SrVJ1oX_Sss) (free)
 * [Grandes Jorasses - Spur Walker North Face - Cassin Route](https://www.youtube.com/watch?v=rZDkBiTsNc8) (free)
 * [Scarason - Mystic Train](https://vimeo.com/403494140) (free)
+* [La Parete D'Argento - Gogna](https://www.youtube.com/watch?v=XN27J8yXKv4) (free)
+* [Scarason - Direct](https://www.youtube.com/watch?v=UpX8tG_Bmuk) (free)
 
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
