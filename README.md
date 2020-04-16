@@ -22,7 +22,6 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 * [Deep Water](https://www.primevideo.com/detail/0U8HO7U8SNI66I5SLV3W9Z9YP4) (amazon prime account)
 * [Free Solo](https://www.hulu.com/movie/free-solo-5bc87ba3-cda0-4f46-b81c-4c3ea170e9d1) (hulu account)
 * [Free Solo](https://www.disneyplus.com/movies/free-solo/3ibzvuU6iPlE) (disney+ account)
-* [Jeff Lowes Metanoia](https://filmfestivalflix.com/festival/vertical-life-film-festival/film/jeff-lowes-metanoia) (€)
 * [The Asgard Project](https://filmfestivalflix.com/festival/vertical-life-film-festival/film/the-asgard-project/) (€)
 * [Mirror Wall](https://www.youtube.com/watch?v=cBSnwpcYRqA) (free)
 * [Consumed](https://www.youtube.com/watch?v=IYIvX5vNA6s) (free)
@@ -98,6 +97,7 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 * [Golden Gate, Emily Harrington](https://www.youtube.com/watch?v=W8kru0kTTvk) (free)
 * [Gian Carlo Grassi, l’uomo del giardino di cristallo (italian)](https://vimeo.com/404956704) (free)
 * [Eternal Flame - Huberbuam](https://vimeo.com/405736089) (free)
+* [Jeff Lowes Metanoia](https://www.youtube.com/watch?v=JMvt0bpWj2U) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
