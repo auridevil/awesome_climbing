@@ -97,7 +97,7 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 * [Golden Gate, Emily Harrington](https://www.youtube.com/watch?v=W8kru0kTTvk) (free)
 * [Gian Carlo Grassi, l’uomo del giardino di cristallo (italian)](https://vimeo.com/404956704) (free)
 * [Eternal Flame - Huberbuam](https://vimeo.com/405736089) (free)
-* [Jeff Lowes Metanoia](https://www.youtube.com/watch?v=JMvt0bpWj2U) (free)
+* [Jeff Lowe's Metanoia](https://www.youtube.com/watch?v=JMvt0bpWj2U) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
