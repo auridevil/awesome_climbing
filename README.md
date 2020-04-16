@@ -196,6 +196,7 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 * [Joe Kinder Bone Tomahawk 9a+](https://www.youtube.com/watch?v=pQBR96lPTvs) (free)
 * [Pirmin Bertle Le vent nous portera, 9a+, Socaire, Chile](https://vimeo.com/236289545) (free)
 * [Cédric Lachat - Pachamama 9a+](https://www.youtube.com/watch?v=Vgdd7OnOv-4&) (free)
+* [Seve Scassa - Noia 8c+](https://www.youtube.com/watch?v=uNsrIVbJ0dA) (free)
 
 ## Ice
 * [Beyond good and evil](https://www.youtube.com/watch?v=ISagf2eCzKg&t=180s) (free)
