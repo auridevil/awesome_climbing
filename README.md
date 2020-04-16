@@ -98,6 +98,7 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 * [Gian Carlo Grassi, l’uomo del giardino di cristallo (italian)](https://vimeo.com/404956704) (free)
 * [Eternal Flame - Huberbuam](https://vimeo.com/405736089) (free)
 * [Jeff Lowe's Metanoia](https://www.youtube.com/watch?v=JMvt0bpWj2U) (free)
+* [The Pathan Project](https://www.youtube.com/watch?v=jCjGFiftth0) (free) 
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -267,6 +268,7 @@ We prefer to add free movies.
 * [Ely Seibipiu Mondino](https://www.instagram.com/ely_mondino/)
 * [Jerba Canepazzo](https://www.facebook.com/profile.php?id=100016643972050)
 * [Dyno Ciomparelli](https://www.youtube.com/watch?v=17khWnP9d6c)
+* [Alpinisti in Erba](https://www.facebook.com/AlpinistiinErba)
 * [Lollo Jack-One il cappellano](https://www.instagram.com/lorenzogiacone)
 * [CCO Filippi](https://www.instagram.com/fra.ci.filippi)
 * [Alessandro Alagaesia Tenenza](https://www.instagram.com/alagaesia)
