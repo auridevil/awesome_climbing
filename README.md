@@ -4,7 +4,7 @@
 ## Unsorted Collection of Awesome Climbing Videos (>10 min).
 Friction Against Covid19.
 
-Last Update 16.04.20. New Envrionment and Podcast sections!
+Last Update 17.04.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
 
 ## Movies
 * [Rotpunkt](https://www.youtube.com/watch?v=SbWvFjUIt5k&t=13s) (free)
@@ -252,14 +252,15 @@ Last Update 16.04.20. New Envrionment and Podcast sections!
 The latest addition are at the end of each section.
 
 * [Repository Version](https://github.com/auridevil/awesome_climbing/)
-* [Website version](https://auridevil.github.io/awesome_climbing/)
+* [Website Version](https://auridevil.github.io/awesome_climbing/)
+* [Facebook Updates](https://www.facebook.com/Awesome-Climbing-105827887767455)
 
 ### Contribute
 If you want to contribute you can
 * Pull Request to this repository (github account needed)
 * Create Issue on this repository (github account needed)
 * Mail the link to aureliano.bergese[at]gmail.com
-
+* Write us on the facebook page
 
 Please use the format: 
 >(section) title - link - free/€/account
