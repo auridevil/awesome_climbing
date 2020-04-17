@@ -237,7 +237,7 @@ Last Update 17.04.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [Mammut - Reclimbing The Classics](https://www.youtube.com/watch?v=-QHkBqHkR6U&list=PLe07KVESaS70_omqiIQDqoAsYkpZaOr0F)
 * [RUMBLR - Rodellar](https://www.youtube.com/watch?v=dMMX_mYCACQ&list=PLn4uVR1HTnq7b_a-CNu5n91FOKRW31w2t) 
 
-## Environment (new!)
+## Environment
 * [Artifishal](https://www.youtube.com/watch?v=XdNJ0JAwT7I) (free)
 * [One Breath Around The World](https://www.youtube.com/watch?v=OnvQggy3Ezw) (free)
 * [Blue Heart: The Fight for Europe’s Last Wild Rivers](https://www.youtube.com/watch?v=OhmHByZ0Xd8) (free)
@@ -245,7 +245,7 @@ Last Update 17.04.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [Estado Salmonero](https://www.youtube.com/watch?v=D_fg1MV5YCI) (free)
 * [Takayna](https://www.youtube.com/watch?v=MHdE2YCRjck) (free)
 
-## Podcast (new!)
+## Podcast
 * [Recensioni Brocche - Climbing Books review, in italian](https://open.spotify.com/show/6Gx6ht1JaeOhel8KaZaxm7) (free)
 
 ## About
@@ -253,7 +253,7 @@ The latest addition are at the end of each section.
 
 * [Repository Version](https://github.com/auridevil/awesome_climbing/)
 * [Website Version](https://auridevil.github.io/awesome_climbing/)
-* [Facebook Updates](https://www.facebook.com/Awesome-Climbing-105827887767455)
+* [Facebook Updates](https://www.facebook.com/Awesome-Climbing-105827887767455) (new!)
 
 ### Contribute
 If you want to contribute you can
