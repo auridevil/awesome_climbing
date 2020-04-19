@@ -101,7 +101,7 @@ Last Update 19.04.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [Jeff Lowe's Metanoia](https://www.youtube.com/watch?v=JMvt0bpWj2U) (free)
 * [The Pathan Project](https://www.youtube.com/watch?v=jCjGFiftth0) (free) 
 * [Real Rock - Urban Climbing](https://www.youtube.com/watch?v=rFtiJifvOuo) (free)
-* [Cannabis Rock](https://www.openddb.it/film/cannabis-rock/) (up to you)
+* [Cannabis Rock](https://www.openddb.it/film/cannabis-rock/) (€ up to you)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
