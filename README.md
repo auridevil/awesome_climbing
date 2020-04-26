@@ -131,6 +131,7 @@ Last Update 19.04.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [Bal Au Dessus](https://vimeo.com/263853882) (free)
 * [Expédition Siula Grande : Le Bruit Des Glaçons](https://www.youtube.com/watch?v=87TiKUn9Qpo) (free)
 * [La Cordée de rêve - Berhault, Edlinger, Magnin](https://www.youtube.com/watch?v=lvvPUgz7BiI) (free)
+* [50 anni dopo - Cassin and Pizzo Badile (Italian)](https://vimeo.com/109120314) (free)
 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
