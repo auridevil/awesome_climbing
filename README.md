@@ -4,7 +4,7 @@
 ## Unsorted Collection of Awesome Climbing Videos (>10 min).
 Friction Against Covid19.
 
-Last Update 19.04.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
+Last Update 27.04.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
 
 ## Movies
 * [The Egger project](https://www.youtube.com/watch?v=4MwWBfDB62M) (free)
@@ -132,6 +132,7 @@ Last Update 19.04.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [Expédition Siula Grande : Le Bruit Des Glaçons](https://www.youtube.com/watch?v=87TiKUn9Qpo) (free)
 * [La Cordée de rêve - Berhault, Edlinger, Magnin](https://www.youtube.com/watch?v=lvvPUgz7BiI) (free)
 * [50 anni dopo - Cassin and Pizzo Badile (Italian)](https://vimeo.com/109120314) (free)
+* [Latok 1](https://vimeo.com/358309131) (free)
 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
@@ -297,6 +298,7 @@ We prefer to add free movies.
 * [EricRoe](https://github.com/EricRoe)
 * [Outstide.fr](https://www.outside.fr/)
 * [Saverio Delpriori](https://www.instagram.com/dlpswr/)
+* [Ibanpare](https://github.com/ibanpare)
 
 ## Thanks
 * [freepik.com](https://www.freepik.com/) for logo parts
