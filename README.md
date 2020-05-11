@@ -137,6 +137,7 @@ Last Update 11.05.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [50 anni dopo - Cassin and Pizzo Badile (Italian)](https://vimeo.com/109120314) (free)
 * [Latok 1](https://vimeo.com/358309131) (free)
 * [Tom (Ballard) in Memoriam](https://vimeo.com/395664529) (free)
+* [Big mountain - Slovak direct on Denali - Ragni di Lecco](https://www.youtube.com/watch?v=veYq8WJVSUE&t=803s) (free)
 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
