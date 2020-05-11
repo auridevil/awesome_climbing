@@ -136,6 +136,7 @@ Last Update 11.05.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [La Cordée de rêve - Berhault, Edlinger, Magnin](https://www.youtube.com/watch?v=lvvPUgz7BiI) (free)
 * [50 anni dopo - Cassin and Pizzo Badile (Italian)](https://vimeo.com/109120314) (free)
 * [Latok 1](https://vimeo.com/358309131) (free)
+* [Tom (Ballard) in Memoriam](https://vimeo.com/395664529) (free)
 
 ## Bouldering
 * [West Coast Pimp - A California bouldering showcase](https://www.youtube.com/watch?v=NXuUW9bXOYk) (free)  
