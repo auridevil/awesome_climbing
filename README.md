@@ -4,7 +4,7 @@
 ## Unsorted Collection of Awesome Climbing Videos (>10 min).
 Friction Against Covid19.
 
-Last Update 02.05.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
+Last Update 11.05.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
 
 ## Movies
 * [The Egger project](https://www.youtube.com/watch?v=4MwWBfDB62M) (free)
@@ -102,6 +102,9 @@ Last Update 02.05.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [The Pathan Project](https://www.youtube.com/watch?v=jCjGFiftth0) (free) 
 * [Real Rock - Urban Climbing](https://www.youtube.com/watch?v=rFtiJifvOuo) (free)
 * [Cannabis Rock](https://www.openddb.it/film/cannabis-rock/) (€ up to you)
+* [Finale '68](https://vimeo.com/365933629) (free)
+* [Silbergeier - Nina Caprez & Cedric Lachat](https://www.youtube.com/watch?v=AN5CDewKVdk) (free)
+* [Berhault 2008](https://www.youtube.com/watch?v=Y6vjzGAufVs) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
@@ -235,6 +238,8 @@ Last Update 02.05.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [Scarason - Mystic Train](https://vimeo.com/403494140) (free)
 * [La Parete D'Argento - Gogna](https://www.youtube.com/watch?v=XN27J8yXKv4) (free)
 * [Scarason - Direct](https://www.youtube.com/watch?v=UpX8tG_Bmuk) (free)
+* [Super Purple Crack 8a](https://www.youtube.com/watch?v=qp-6WYvnlUM) (free)
+
 
 ## Playlist
 * [Kieran Payne - Climbing Movies](https://www.youtube.com/playlist?list=PL0WvpPtpxfZkd9qZhes5jZ3E7ML8asDO8)
