@@ -4,7 +4,7 @@
 ## Unsorted Collection of Awesome Climbing Videos (>10 min).
 Friction Against Covid19.
 
-Last Update 11.05.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
+Last Update 17.05.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
 
 ## Movies
 * [The Egger project](https://www.youtube.com/watch?v=4MwWBfDB62M) (free)
@@ -105,6 +105,7 @@ Last Update 11.05.20. Rolling update on [facebook](https://www.facebook.com/Awes
 * [Finale '68](https://vimeo.com/365933629) (free)
 * [Silbergeier - Nina Caprez & Cedric Lachat](https://www.youtube.com/watch?v=AN5CDewKVdk) (free)
 * [Berhault 2008](https://www.youtube.com/watch?v=Y6vjzGAufVs) (free)
+* [Dean Potter : The Core](https://www.youtube.com/watch?v=PoyX8z5235c) (free)
 
 ## Mountaineering
 * [Zabardast](https://www.youtube.com/watch?v=AkigzUFr3ys) (free)
