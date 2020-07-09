@@ -1,12 +1,9 @@
-<h1> Awesome Climbing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)🧗‍
-</h1>
+# Awesome Climbing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)🧗‍
 <img src="https://auridevil.github.com/awesome_climbing/images/awesome_climbing.png" width="300">
 
-<h2> Unsorted Collection of Awesome Climbing Videos (>10 min) </h2>
+## Unsorted Collection of Awesome Climbing Videos (>10 min)
 
-Friction Against Covid19.
-
-Last Update 17.05.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
+Last Update 09.07.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
 
 ## Contents
 
@@ -127,6 +124,8 @@ Last Update 17.05.20. Rolling update on [facebook](https://www.facebook.com/Awes
 - [Silbergeier - Nina Caprez & Cedric Lachat](https://www.youtube.com/watch?v=AN5CDewKVdk) (free)
 - [Berhault 2008](https://www.youtube.com/watch?v=Y6vjzGAufVs) (free)
 - [Dean Potter : The Core](https://www.youtube.com/watch?v=PoyX8z5235c) (free)
+- [Alexander Huber - Free Solo](https://vimeo.com/ondemand/freesolo) (€)
+- [Kunur Sayana - Bolting and climbing a perfect line in Peru](https://www.youtube.com/watch?v=2quugpJRAms) (free)
 
 ## Mountaineering
 
