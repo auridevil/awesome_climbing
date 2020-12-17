@@ -3,7 +3,7 @@
 
 ## Unsorted Collection of Awesome Climbing Videos (>10 min)
 
-Last Update 09.07.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
+Last Update 17.12.20. Rolling update on [facebook](https://www.facebook.com/Awesome-Climbing-105827887767455)!
 
 ## Contents
 
@@ -126,6 +126,7 @@ Last Update 09.07.20. Rolling update on [facebook](https://www.facebook.com/Awes
 - [Dean Potter : The Core](https://www.youtube.com/watch?v=PoyX8z5235c) (free)
 - [Alexander Huber - Free Solo](https://vimeo.com/ondemand/freesolo) (€)
 - [Kunur Sayana - Bolting and climbing a perfect line in Peru](https://www.youtube.com/watch?v=2quugpJRAms) (free)
+- [Stone Locals - Rediscovering the Soul of Climbing](https://www.youtube.com/watch?v=Yj7ZCYMgSvw) (free)
 
 ## Mountaineering
 
