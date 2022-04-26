@@ -24,6 +24,8 @@ Last Update 08.03.22.
 - [Thanks](#thanks)
 
 ## Movies
+- [Swissway to Heaven](https://www.youtube.com/watch?v=knxL3pPf1Gs) (free)
+- [Friends Of The Grit](https://www.youtube.com/watch?v=OOCq9kOgF8I) (free)
 - [The Pathan Project - Guillaume Broust](https://www.youtube.com/watch?v=jCjGFiftth0) (free)
 - [Finale 68 - IT](https://www.youtube.com/watch?v=kJtTFZK8BxU) [Finale 68 - EN](https://www.youtube.com/watch?v=s0yC_kSHt9s) (free)
 - [The Big Bang: The Emma Twyford Story](https://www.youtube.com/watch?v=IrJ5fH_rDtg) (free)
