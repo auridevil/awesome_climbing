@@ -259,7 +259,7 @@ Last Update 08.03.22.
 ## Homevideos
 
 - [This is Africa](https://vimeo.com/180634123) (free)
-- [King Line](https://www.youtube.com/watch?v=S247ARFXFqc) (free)
+- [King Lines](https://www.redbull.com/int-en/episodes/king-lines-part-i-reel-rock-s01-e12) (free)
 - [Hampi Bouldering](https://vimeo.com/208392951) (free)
 - [Fresh Meat](https://vimeo.com/77431619) (free)
 - [Rocklands 2014](https://www.youtube.com/watch?v=9F3sAUgRWKo) (free)
